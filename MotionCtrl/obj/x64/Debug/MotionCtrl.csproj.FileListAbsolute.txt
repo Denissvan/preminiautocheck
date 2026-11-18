@@ -1,0 +1,71 @@
+C:\Users\test\Desktop\WLTmini_Cog20181124\MotionCtrl\bin\MotionCtrl.dll
+C:\Users\test\Desktop\WLTmini_Cog20181124\MotionCtrl\bin\MotionCtrl.pdb
+C:\Users\test\Desktop\WLTmini_Cog20181124\MotionCtrl\bin\NModbus4.dll
+C:\Users\test\Desktop\WLTmini_Cog20181124\MotionCtrl\bin\NModbus4.xml
+C:\Users\test\Desktop\WLTmini_Cog20181124\MotionCtrl\obj\x64\Debug\MotionCtrl.AxisConfig.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\MotionCtrl\obj\x64\Debug\MotionCtrl.IOTable.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\MotionCtrl\obj\x64\Debug\MotionCtrl.CylinderTable.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\MotionCtrl\obj\x64\Debug\MotionCtrl.CardTable.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\MotionCtrl\obj\x64\Debug\MotionCtrl.AxisTable.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\MotionCtrl\obj\x64\Debug\MotionCtrl.IOPanel.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\MotionCtrl\obj\x64\Debug\MotionCtrl.pad.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\MotionCtrl\obj\x64\Debug\MotionCtrl.Properties.Resources.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\MotionCtrl\obj\x64\Debug\MotionCtrl.User.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\MotionCtrl\obj\x64\Debug\MotionCtrl.XYZU.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\MotionCtrl\obj\x64\Debug\MotionCtrl.csproj.GenerateResource.Cache
+C:\Users\test\Desktop\WLTmini_Cog20181124\MotionCtrl\obj\x64\Debug\MotionCtrl.dll
+C:\Users\test\Desktop\WLTmini_Cog20181124\MotionCtrl\obj\x64\Debug\MotionCtrl.pdb
+C:\Users\test\Desktop\WLTmini_Cog20181124\MotionCtrl\obj\x64\Debug\MotionCtrl.csprojResolveAssemblyReference.cache
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\MotionCtrl\bin\MotionCtrl.dll
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\MotionCtrl\bin\MotionCtrl.pdb
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\MotionCtrl\bin\NModbus4.dll
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\MotionCtrl\bin\NModbus4.xml
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\MotionCtrl\obj\x64\Debug\MotionCtrl.AxisConfig.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\MotionCtrl\obj\x64\Debug\MotionCtrl.IOTable.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\MotionCtrl\obj\x64\Debug\MotionCtrl.CylinderTable.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\MotionCtrl\obj\x64\Debug\MotionCtrl.CardTable.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\MotionCtrl\obj\x64\Debug\MotionCtrl.AxisTable.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\MotionCtrl\obj\x64\Debug\MotionCtrl.IOPanel.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\MotionCtrl\obj\x64\Debug\MotionCtrl.pad.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\MotionCtrl\obj\x64\Debug\MotionCtrl.Properties.Resources.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\MotionCtrl\obj\x64\Debug\MotionCtrl.User.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\MotionCtrl\obj\x64\Debug\MotionCtrl.XYZU.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\MotionCtrl\obj\x64\Debug\MotionCtrl.csproj.GenerateResource.Cache
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\MotionCtrl\obj\x64\Debug\MotionCtrl.dll
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\MotionCtrl\obj\x64\Debug\MotionCtrl.pdb
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\MotionCtrl\bin\MotionCtrl.dll
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\MotionCtrl\bin\MotionCtrl.pdb
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\MotionCtrl\bin\NModbus4.dll
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\MotionCtrl\bin\NModbus4.xml
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\MotionCtrl\obj\x64\Debug\MotionCtrl.AxisConfig.resources
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\MotionCtrl\obj\x64\Debug\MotionCtrl.IOTable.resources
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\MotionCtrl\obj\x64\Debug\MotionCtrl.CylinderTable.resources
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\MotionCtrl\obj\x64\Debug\MotionCtrl.CardTable.resources
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\MotionCtrl\obj\x64\Debug\MotionCtrl.AxisTable.resources
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\MotionCtrl\obj\x64\Debug\MotionCtrl.IOPanel.resources
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\MotionCtrl\obj\x64\Debug\MotionCtrl.pad.resources
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\MotionCtrl\obj\x64\Debug\MotionCtrl.Properties.Resources.resources
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\MotionCtrl\obj\x64\Debug\MotionCtrl.User.resources
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\MotionCtrl\obj\x64\Debug\MotionCtrl.XYZU.resources
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\MotionCtrl\obj\x64\Debug\MotionCtrl.csproj.GenerateResource.Cache
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\MotionCtrl\obj\x64\Debug\MotionCtrl.dll
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\MotionCtrl\obj\x64\Debug\MotionCtrl.pdb
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\MotionCtrl\obj\x64\Debug\MotionCtrl.csprojResolveAssemblyReference.cache
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\MotionCtrl\bin\MotionCtrl.dll
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\MotionCtrl\bin\MotionCtrl.pdb
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\MotionCtrl\bin\NModbus4.dll
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\MotionCtrl\bin\NModbus4.xml
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\MotionCtrl\obj\x64\Debug\MotionCtrl.csprojResolveAssemblyReference.cache
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\MotionCtrl\obj\x64\Debug\MotionCtrl.AxisConfig.resources
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\MotionCtrl\obj\x64\Debug\MotionCtrl.IOTable.resources
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\MotionCtrl\obj\x64\Debug\MotionCtrl.CylinderTable.resources
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\MotionCtrl\obj\x64\Debug\MotionCtrl.CardTable.resources
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\MotionCtrl\obj\x64\Debug\MotionCtrl.AxisTable.resources
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\MotionCtrl\obj\x64\Debug\MotionCtrl.IOPanel.resources
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\MotionCtrl\obj\x64\Debug\MotionCtrl.pad.resources
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\MotionCtrl\obj\x64\Debug\MotionCtrl.Properties.Resources.resources
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\MotionCtrl\obj\x64\Debug\MotionCtrl.User.resources
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\MotionCtrl\obj\x64\Debug\MotionCtrl.XYZU.resources
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\MotionCtrl\obj\x64\Debug\MotionCtrl.csproj.GenerateResource.Cache
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\MotionCtrl\obj\x64\Debug\MotionCtrl.dll
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\MotionCtrl\obj\x64\Debug\MotionCtrl.pdb

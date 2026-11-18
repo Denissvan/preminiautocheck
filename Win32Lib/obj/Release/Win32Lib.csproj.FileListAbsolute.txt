@@ -1,0 +1,9 @@
+E:\代码\项目\searchfile\SecsSolution\Win32Lib\bin\Release\Win32Lib.dll
+E:\代码\项目\searchfile\SecsSolution\Win32Lib\bin\Release\Win32Lib.pdb
+E:\代码\项目\searchfile\SecsSolution\Win32Lib\obj\Release\Win32Lib.csproj.CoreCompileInputs.cache
+E:\代码\项目\searchfile\SecsSolution\Win32Lib\obj\Release\Win32Lib.dll
+E:\代码\项目\searchfile\SecsSolution\Win32Lib\obj\Release\Win32Lib.pdb
+E:\代码\项目\searchfile\SecsSolution\Win32Lib\bin\Release\Newtonsoft.Json.dll
+E:\代码\项目\searchfile\SecsSolution\Win32Lib\bin\Release\Newtonsoft.Json.xml
+E:\代码\项目\searchfile\SecsSolution\Win32Lib\obj\Release\Win32Lib.csproj.CopyComplete
+E:\代码\项目\searchfile\SecsSolution\Win32Lib\obj\Release\Win32Lib.csprojAssemblyReference.cache

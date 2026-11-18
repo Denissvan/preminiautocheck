@@ -1,0 +1,1 @@
+{"S":1,"F":13,"Type":"S1F13","Text":"<L[2]\r\n    <A[1] \"1\">\r\n    <A[3] \"1.0\">\r\n>\r\n.","FileName":"建立通信.sml","Desc":"","CommandInfos":[],"SelectVariable":null,"TriggerInterval":5,"TriggerIndex":4,"CompareIndex":0,"CompareValue":null,"TriggerType":null,"IsReplyExpected":true}

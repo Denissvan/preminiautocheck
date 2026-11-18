@@ -1,0 +1,4 @@
+2024-06-24 08:23:58.4540 [Secs.App.PC.ViewModels.OverViewModel+<MqttConnect>d__107.MoveNext] : mqtt连接失败！
+2024-06-24 08:23:58.5367 [Secs.App.PC.ViewModels.OverViewModel.<get_SourceOnCommand] : mqtt断开！
+2024-06-24 08:25:36.8994 [Secs.App.PC.ViewModels.OverViewModel+<MqttConnect>d__107.MoveNext] : mqtt连接失败！
+2024-06-24 08:25:36.9658 [Secs.App.PC.ViewModels.OverViewModel.<get_SourceOnCommand] : mqtt断开！

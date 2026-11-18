@@ -1,0 +1,171 @@
+E:\代码\项目\searchfile\SecsSolution\Win32Lib\bin\Debug\Win32Lib.dll
+E:\代码\项目\searchfile\SecsSolution\Win32Lib\bin\Debug\Win32Lib.pdb
+E:\代码\项目\searchfile\SecsSolution\Win32Lib\obj\Debug\Win32Lib.csprojAssemblyReference.cache
+E:\代码\项目\searchfile\SecsSolution\Win32Lib\obj\Debug\Win32Lib.csproj.CoreCompileInputs.cache
+E:\代码\项目\searchfile\SecsSolution\Win32Lib\obj\Debug\Win32Lib.dll
+E:\代码\项目\searchfile\SecsSolution\Win32Lib\obj\Debug\Win32Lib.pdb
+E:\代码\项目\searchfile\SecsSolution\Win32Lib\bin\Debug\Newtonsoft.Json.dll
+E:\代码\项目\searchfile\SecsSolution\Win32Lib\bin\Debug\Newtonsoft.Json.xml
+E:\代码\项目\searchfile\SecsSolution\Win32Lib\obj\Debug\Win32Lib.csproj.CopyComplete
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\AUTOLINE 0329\AUTOLINE 4\Win32Lib\bin\Debug\Win32Lib.dll
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\AUTOLINE 0329\AUTOLINE 4\Win32Lib\bin\Debug\Win32Lib.pdb
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\AUTOLINE 0329\AUTOLINE 4\Win32Lib\bin\Debug\Newtonsoft.Json.dll
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\AUTOLINE 0329\AUTOLINE 4\Win32Lib\bin\Debug\Newtonsoft.Json.xml
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\AUTOLINE 0329\AUTOLINE 4\Win32Lib\obj\Debug\Win32Lib.dll
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\AUTOLINE 0329\AUTOLINE 4\Win32Lib\obj\Debug\Win32Lib.pdb
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\AUTOLINE 0406\Win32Lib\bin\Debug\Win32Lib.dll
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\AUTOLINE 0406\Win32Lib\bin\Debug\Win32Lib.pdb
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\AUTOLINE 0406\Win32Lib\bin\Debug\Newtonsoft.Json.dll
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\AUTOLINE 0406\Win32Lib\bin\Debug\Newtonsoft.Json.xml
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\AUTOLINE 0406\Win32Lib\obj\Debug\Win32Lib.dll
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\AUTOLINE 0406\Win32Lib\obj\Debug\Win32Lib.pdb
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\AUTOLINE 0407\Win32Lib\bin\Debug\Win32Lib.dll
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\AUTOLINE 0407\Win32Lib\bin\Debug\Win32Lib.pdb
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\AUTOLINE 0407\Win32Lib\bin\Debug\Newtonsoft.Json.dll
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\AUTOLINE 0407\Win32Lib\bin\Debug\Newtonsoft.Json.xml
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\AUTOLINE 0407\Win32Lib\obj\Debug\Win32Lib.dll
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\AUTOLINE 0407\Win32Lib\obj\Debug\Win32Lib.pdb
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\AUTOLINE 0407\Win32Lib\obj\Debug\Win32Lib.csprojResolveAssemblyReference.cache
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\AUTOLINE 0408\Win32Lib\bin\Debug\Win32Lib.dll
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\AUTOLINE 0408\Win32Lib\bin\Debug\Win32Lib.pdb
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\AUTOLINE 0408\Win32Lib\bin\Debug\Newtonsoft.Json.dll
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\AUTOLINE 0408\Win32Lib\bin\Debug\Newtonsoft.Json.xml
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\AUTOLINE 0408\Win32Lib\obj\Debug\Win32Lib.dll
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\AUTOLINE 0408\Win32Lib\obj\Debug\Win32Lib.pdb
+D:\金线检测\电控\AUTOLINE 0409\AUTOLINE 0408\Win32Lib\bin\Debug\Win32Lib.dll
+D:\金线检测\电控\AUTOLINE 0409\AUTOLINE 0408\Win32Lib\bin\Debug\Win32Lib.pdb
+D:\金线检测\电控\AUTOLINE 0409\AUTOLINE 0408\Win32Lib\bin\Debug\Newtonsoft.Json.dll
+D:\金线检测\电控\AUTOLINE 0409\AUTOLINE 0408\Win32Lib\bin\Debug\Newtonsoft.Json.xml
+D:\金线检测\电控\AUTOLINE 0409\AUTOLINE 0408\Win32Lib\obj\Debug\Win32Lib.dll
+D:\金线检测\电控\AUTOLINE 0409\AUTOLINE 0408\Win32Lib\obj\Debug\Win32Lib.pdb
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\AUTOLINE 0409\AUTOLINE 0408\Win32Lib\bin\Debug\Win32Lib.dll
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\AUTOLINE 0409\AUTOLINE 0408\Win32Lib\bin\Debug\Win32Lib.pdb
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\AUTOLINE 0409\AUTOLINE 0408\Win32Lib\bin\Debug\Newtonsoft.Json.dll
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\AUTOLINE 0409\AUTOLINE 0408\Win32Lib\bin\Debug\Newtonsoft.Json.xml
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\AUTOLINE 0409\AUTOLINE 0408\Win32Lib\obj\Debug\Win32Lib.dll
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\AUTOLINE 0409\AUTOLINE 0408\Win32Lib\obj\Debug\Win32Lib.pdb
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\AUTOLINE 0409网口通信\Win32Lib\bin\Debug\Win32Lib.dll
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\AUTOLINE 0409网口通信\Win32Lib\bin\Debug\Win32Lib.pdb
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\AUTOLINE 0409网口通信\Win32Lib\bin\Debug\Newtonsoft.Json.dll
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\AUTOLINE 0409网口通信\Win32Lib\bin\Debug\Newtonsoft.Json.xml
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\AUTOLINE 0409网口通信\Win32Lib\obj\Debug\Win32Lib.csprojResolveAssemblyReference.cache
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\AUTOLINE 0409网口通信\Win32Lib\obj\Debug\Win32Lib.dll
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\AUTOLINE 0409网口通信\Win32Lib\obj\Debug\Win32Lib.pdb
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\2-6号机-量产机\AUTOLINE 0409网口通信\Win32Lib\bin\Debug\Win32Lib.dll
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\2-6号机-量产机\AUTOLINE 0409网口通信\Win32Lib\bin\Debug\Win32Lib.pdb
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\2-6号机-量产机\AUTOLINE 0409网口通信\Win32Lib\bin\Debug\Newtonsoft.Json.dll
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\2-6号机-量产机\AUTOLINE 0409网口通信\Win32Lib\bin\Debug\Newtonsoft.Json.xml
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\2-6号机-量产机\AUTOLINE 0409网口通信\Win32Lib\obj\Debug\Win32Lib.dll
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\2-6号机-量产机\AUTOLINE 0409网口通信\Win32Lib\obj\Debug\Win32Lib.pdb
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\2-6号机-量产机\AUTOLINE 0409网口通信-量产机\Win32Lib\bin\Debug\Win32Lib.dll
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\2-6号机-量产机\AUTOLINE 0409网口通信-量产机\Win32Lib\bin\Debug\Win32Lib.pdb
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\2-6号机-量产机\AUTOLINE 0409网口通信-量产机\Win32Lib\bin\Debug\Newtonsoft.Json.dll
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\2-6号机-量产机\AUTOLINE 0409网口通信-量产机\Win32Lib\bin\Debug\Newtonsoft.Json.xml
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\2-6号机-量产机\AUTOLINE 0409网口通信-量产机\Win32Lib\obj\Debug\Win32Lib.dll
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\2-6号机-量产机\AUTOLINE 0409网口通信-量产机\Win32Lib\obj\Debug\Win32Lib.pdb
+F:\资料\电控软件\2-6号机-量产机\AUTOLINE 0409网口通信-量产机\Win32Lib\obj\Debug\Win32Lib.csprojResolveAssemblyReference.cache
+F:\资料\电控软件\2-6号机-量产机\AUTOLINE 0409网口通信-量产机\Win32Lib\obj\Debug\Win32Lib.dll
+F:\资料\电控软件\2-6号机-量产机\AUTOLINE 0409网口通信-量产机\Win32Lib\obj\Debug\Win32Lib.pdb
+G:\侯仰强\金线检测\量产机版本\2-6号机-量产机\Win32Lib\bin\Debug\Win32Lib.dll
+G:\侯仰强\金线检测\量产机版本\2-6号机-量产机\Win32Lib\bin\Debug\Win32Lib.pdb
+G:\侯仰强\金线检测\量产机版本\2-6号机-量产机\Win32Lib\bin\Debug\Newtonsoft.Json.dll
+G:\侯仰强\金线检测\量产机版本\2-6号机-量产机\Win32Lib\bin\Debug\Newtonsoft.Json.xml
+G:\侯仰强\金线检测\量产机版本\2-6号机-量产机\Win32Lib\obj\Debug\Win32Lib.dll
+G:\侯仰强\金线检测\量产机版本\2-6号机-量产机\Win32Lib\obj\Debug\Win32Lib.pdb
+G:\侯仰强\金线检测\量产机版本\量产机\Win32Lib\bin\Debug\Win32Lib.dll
+G:\侯仰强\金线检测\量产机版本\量产机\Win32Lib\bin\Debug\Win32Lib.pdb
+G:\侯仰强\金线检测\量产机版本\量产机\Win32Lib\bin\Debug\Newtonsoft.Json.dll
+G:\侯仰强\金线检测\量产机版本\量产机\Win32Lib\bin\Debug\Newtonsoft.Json.xml
+G:\侯仰强\金线检测\量产机版本\量产机\Win32Lib\obj\Debug\Win32Lib.dll
+G:\侯仰强\金线检测\量产机版本\量产机\Win32Lib\obj\Debug\Win32Lib.pdb
+F:\资料\电控软件\量产机\Win32Lib\bin\Debug\Win32Lib.dll
+F:\资料\电控软件\量产机\Win32Lib\bin\Debug\Win32Lib.pdb
+F:\资料\电控软件\量产机\Win32Lib\bin\Debug\Newtonsoft.Json.dll
+F:\资料\电控软件\量产机\Win32Lib\bin\Debug\Newtonsoft.Json.xml
+F:\资料\电控软件\量产机\Win32Lib\obj\Debug\Win32Lib.dll
+F:\资料\电控软件\量产机\Win32Lib\obj\Debug\Win32Lib.pdb
+F:\资料\电控软件\量产机\Win32Lib\obj\Debug\Win32Lib.csprojResolveAssemblyReference.cache
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\量产机\量产机\Win32Lib\bin\Debug\Win32Lib.dll
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\量产机\量产机\Win32Lib\bin\Debug\Win32Lib.pdb
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\量产机\量产机\Win32Lib\bin\Debug\Newtonsoft.Json.dll
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\量产机\量产机\Win32Lib\bin\Debug\Newtonsoft.Json.xml
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\量产机\量产机\Win32Lib\obj\Debug\Win32Lib.dll
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\量产机\量产机\Win32Lib\obj\Debug\Win32Lib.pdb
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\量产机\量产机\Win32Lib\obj\Debug\Win32Lib.csprojResolveAssemblyReference.cache
+F:\资料\电控软件\量产机电控软件\量产机\Win32Lib\bin\Debug\Win32Lib.dll
+F:\资料\电控软件\量产机电控软件\量产机\Win32Lib\bin\Debug\Win32Lib.pdb
+F:\资料\电控软件\量产机电控软件\量产机\Win32Lib\bin\Debug\Newtonsoft.Json.dll
+F:\资料\电控软件\量产机电控软件\量产机\Win32Lib\bin\Debug\Newtonsoft.Json.xml
+F:\资料\电控软件\量产机电控软件\量产机\Win32Lib\obj\Debug\Win32Lib.csprojResolveAssemblyReference.cache
+F:\资料\电控软件\量产机电控软件\量产机\Win32Lib\obj\Debug\Win32Lib.dll
+F:\资料\电控软件\量产机电控软件\量产机\Win32Lib\obj\Debug\Win32Lib.pdb
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\量产机\最新电控软件\Win32Lib\bin\Debug\Win32Lib.dll
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\量产机\最新电控软件\Win32Lib\bin\Debug\Win32Lib.pdb
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\量产机\最新电控软件\Win32Lib\bin\Debug\Newtonsoft.Json.dll
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\量产机\最新电控软件\Win32Lib\bin\Debug\Newtonsoft.Json.xml
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\量产机\最新电控软件\Win32Lib\obj\Debug\Win32Lib.dll
+E:\项目文件\2021年\金线检测设备（进行中）\程序\更新\车间在用\量产机\最新电控软件\Win32Lib\obj\Debug\Win32Lib.pdb
+G:\侯仰强\金线检测\量产机版本\最新电控软件\Win32Lib\bin\Debug\Win32Lib.dll
+G:\侯仰强\金线检测\量产机版本\最新电控软件\Win32Lib\bin\Debug\Win32Lib.pdb
+G:\侯仰强\金线检测\量产机版本\最新电控软件\Win32Lib\bin\Debug\Newtonsoft.Json.dll
+G:\侯仰强\金线检测\量产机版本\最新电控软件\Win32Lib\bin\Debug\Newtonsoft.Json.xml
+G:\侯仰强\金线检测\量产机版本\最新电控软件\Win32Lib\obj\Debug\Win32Lib.dll
+G:\侯仰强\金线检测\量产机版本\最新电控软件\Win32Lib\obj\Debug\Win32Lib.pdb
+F:\资料\电控软件\最新电控软件0430\最新电控软件\Win32Lib\bin\Debug\Win32Lib.dll
+F:\资料\电控软件\最新电控软件0430\最新电控软件\Win32Lib\bin\Debug\Win32Lib.pdb
+F:\资料\电控软件\最新电控软件0430\最新电控软件\Win32Lib\bin\Debug\Newtonsoft.Json.dll
+F:\资料\电控软件\最新电控软件0430\最新电控软件\Win32Lib\bin\Debug\Newtonsoft.Json.xml
+F:\资料\电控软件\最新电控软件0430\最新电控软件\Win32Lib\obj\Debug\Win32Lib.dll
+F:\资料\电控软件\最新电控软件0430\最新电控软件\Win32Lib\obj\Debug\Win32Lib.pdb
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0507\Win32Lib\bin\Debug\Win32Lib.dll
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0507\Win32Lib\bin\Debug\Win32Lib.pdb
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0507\Win32Lib\bin\Debug\Newtonsoft.Json.dll
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0507\Win32Lib\bin\Debug\Newtonsoft.Json.xml
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0507\Win32Lib\obj\Debug\Win32Lib.dll
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0507\Win32Lib\obj\Debug\Win32Lib.pdb
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0507\Win32Lib\obj\Debug\Win32Lib.csprojResolveAssemblyReference.cache
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0512\Win32Lib\bin\Debug\Win32Lib.dll
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0512\Win32Lib\bin\Debug\Win32Lib.pdb
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0512\Win32Lib\bin\Debug\Newtonsoft.Json.dll
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0512\Win32Lib\bin\Debug\Newtonsoft.Json.xml
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0512\Win32Lib\obj\Debug\Win32Lib.dll
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0512\Win32Lib\obj\Debug\Win32Lib.pdb
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0512\Win32Lib\obj\Debug\Win32Lib.csprojResolveAssemblyReference.cache
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0513\Win32Lib\bin\Debug\Win32Lib.dll
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0513\Win32Lib\bin\Debug\Win32Lib.pdb
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0513\Win32Lib\bin\Debug\Newtonsoft.Json.dll
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0513\Win32Lib\bin\Debug\Newtonsoft.Json.xml
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0513\Win32Lib\obj\Debug\Win32Lib.dll
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0513\Win32Lib\obj\Debug\Win32Lib.pdb
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0517\Win32Lib\bin\Debug\Win32Lib.dll
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0517\Win32Lib\bin\Debug\Win32Lib.pdb
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0517\Win32Lib\bin\Debug\Newtonsoft.Json.dll
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0517\Win32Lib\bin\Debug\Newtonsoft.Json.xml
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0517\Win32Lib\obj\Debug\Win32Lib.dll
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0517\Win32Lib\obj\Debug\Win32Lib.pdb
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0518\Win32Lib\bin\Debug\Win32Lib.dll
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0518\Win32Lib\bin\Debug\Win32Lib.pdb
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0518\Win32Lib\bin\Debug\Newtonsoft.Json.dll
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0518\Win32Lib\bin\Debug\Newtonsoft.Json.xml
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0518\Win32Lib\obj\Debug\Win32Lib.csprojResolveAssemblyReference.cache
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0518\Win32Lib\obj\Debug\Win32Lib.dll
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0518\Win32Lib\obj\Debug\Win32Lib.pdb
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0520\Win32Lib\bin\Debug\Win32Lib.dll
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0520\Win32Lib\bin\Debug\Win32Lib.pdb
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0520\Win32Lib\bin\Debug\Newtonsoft.Json.dll
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0520\Win32Lib\bin\Debug\Newtonsoft.Json.xml
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0520\Win32Lib\obj\Debug\Win32Lib.csprojResolveAssemblyReference.cache
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0520\Win32Lib\obj\Debug\Win32Lib.dll
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0520\Win32Lib\obj\Debug\Win32Lib.pdb
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0522\Win32Lib\bin\Debug\Win32Lib.dll
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0522\Win32Lib\bin\Debug\Win32Lib.pdb
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0522\Win32Lib\bin\Debug\Newtonsoft.Json.dll
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0522\Win32Lib\bin\Debug\Newtonsoft.Json.xml
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0522\Win32Lib\obj\Debug\Win32Lib.dll
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0522\Win32Lib\obj\Debug\Win32Lib.pdb
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0526\Win32Lib\bin\Debug\Win32Lib.dll
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0526\Win32Lib\bin\Debug\Win32Lib.pdb
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0526\Win32Lib\bin\Debug\Newtonsoft.Json.dll
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0526\Win32Lib\bin\Debug\Newtonsoft.Json.xml
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0526\Win32Lib\obj\Debug\Win32Lib.dll
+E:\项目文件\2021年\金线检测设备（已完成）\程序\更新\车间在用\量产机\最新电控软件0526\Win32Lib\obj\Debug\Win32Lib.pdb

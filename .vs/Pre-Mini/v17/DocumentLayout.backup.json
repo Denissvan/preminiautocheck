@@ -1,0 +1,552 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|e:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\pre-mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\pre-mini 20240909\\ui\\formview\\frsys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|solutionrelative:ui\\formview\\frsys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\ui\\formview\\frrun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|solutionrelative:ui\\formview\\frrun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\ui\\formview\\frmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|solutionrelative:ui\\formview\\frmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\ui\\formview\\frmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|solutionrelative:ui\\formview\\frmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\ui\\class\\updownload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|solutionrelative:ui\\class\\updownload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\ui\\formview\\frsys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|solutionrelative:ui\\formview\\frsys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|UI||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\ui\\class\\wsfeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|solutionrelative:ui\\class\\wsfeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\ui\\class\\mt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|solutionrelative:ui\\class\\mt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\ui\\class\\xt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|solutionrelative:ui\\class\\xt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\ui\\formview\\frproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|solutionrelative:ui\\formview\\frproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\ui\\formview\\frproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|solutionrelative:ui\\formview\\frproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\ui\\compment\\xtofsadj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|solutionrelative:ui\\compment\\xtofsadj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\ui\\compment\\xtofsadj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|solutionrelative:ui\\compment\\xtofsadj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85FF29BC-2148-4601-9CCA-6FCF115129F4}|MotionCtrl\\MotionCtrl.csproj|E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\motionctrl\\class\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85FF29BC-2148-4601-9CCA-6FCF115129F4}|MotionCtrl\\MotionCtrl.csproj|solutionrelative:motionctrl\\class\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\ui\\compment\\affinecail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|solutionrelative:ui\\compment\\affinecail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\ui\\compment\\affinecail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|solutionrelative:ui\\compment\\affinecail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\ui\\class\\grpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|solutionrelative:ui\\class\\grpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\ui\\class\\myfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|solutionrelative:ui\\class\\myfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\ui\\compment\\wsmodueldef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|solutionrelative:ui\\compment\\wsmodueldef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\ui\\class\\serialcommunication .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|solutionrelative:ui\\class\\serialcommunication .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\ui\\compment\\testworkstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|solutionrelative:ui\\compment\\testworkstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\ui\\compment\\testworkstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|solutionrelative:ui\\compment\\testworkstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\ui\\compment\\test_workstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|solutionrelative:ui\\compment\\test_workstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\ui\\compment\\workstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|solutionrelative:ui\\compment\\workstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\ui\\class\\traybox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|solutionrelative:ui\\class\\traybox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\ui\\class\\illuminationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|solutionrelative:ui\\class\\illuminationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\ui\\class\\serialcom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|solutionrelative:ui\\class\\serialcom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85FF29BC-2148-4601-9CCA-6FCF115129F4}|MotionCtrl\\MotionCtrl.csproj|E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\motionctrl\\class\\mytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85FF29BC-2148-4601-9CCA-6FCF115129F4}|MotionCtrl\\MotionCtrl.csproj|solutionrelative:motionctrl\\class\\mytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\ui\\class\\xsjlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|solutionrelative:ui\\class\\xsjlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\ui\\compment\\test_workstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|solutionrelative:ui\\compment\\test_workstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85FF29BC-2148-4601-9CCA-6FCF115129F4}|MotionCtrl\\MotionCtrl.csproj|E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\motionctrl\\class\\msg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85FF29BC-2148-4601-9CCA-6FCF115129F4}|MotionCtrl\\MotionCtrl.csproj|solutionrelative:motionctrl\\class\\msg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\ui\\formview\\frrun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C148F5-418A-4FB4-AF50-DEB5934664E3}|UI\\UI.csproj|solutionrelative:ui\\formview\\frrun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|MotionCtrl||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MT.cs",
+              "DocumentMoniker": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\Class\\MT.cs",
+              "RelativeDocumentMoniker": "UI\\Class\\MT.cs",
+              "ToolTip": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\Class\\MT.cs",
+              "RelativeToolTip": "UI\\Class\\MT.cs",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAgwL8CAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T04:58:44.891Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AffineCail.cs",
+              "DocumentMoniker": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\Compment\\AffineCail.cs",
+              "RelativeDocumentMoniker": "UI\\Compment\\AffineCail.cs",
+              "ToolTip": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\Compment\\AffineCail.cs",
+              "RelativeToolTip": "UI\\Compment\\AffineCail.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAHQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T05:43:56.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrSys.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\FormView\\FrSys.cs",
+              "RelativeDocumentMoniker": "UI\\FormView\\FrSys.cs",
+              "ToolTip": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\FormView\\FrSys.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "UI\\FormView\\FrSys.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T02:54:27.573Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrMain.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\FormView\\FrMain.cs",
+              "RelativeDocumentMoniker": "UI\\FormView\\FrMain.cs",
+              "ToolTip": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\FormView\\FrMain.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "UI\\FormView\\FrMain.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:36:00.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrMain.cs",
+              "DocumentMoniker": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\FormView\\FrMain.cs",
+              "RelativeDocumentMoniker": "UI\\FormView\\FrMain.cs",
+              "ToolTip": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\FormView\\FrMain.cs",
+              "RelativeToolTip": "UI\\FormView\\FrMain.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAkwLEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T07:00:18.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WSFEED.cs",
+              "DocumentMoniker": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\Class\\WSFEED.cs",
+              "RelativeDocumentMoniker": "UI\\Class\\WSFEED.cs",
+              "ToolTip": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\Class\\WSFEED.cs",
+              "RelativeToolTip": "UI\\Class\\WSFEED.cs",
+              "ViewState": "AgIAAPIGAAAAAAAAAAAzwGkIAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T02:02:08.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UI",
+              "DocumentMoniker": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\UI.csproj",
+              "RelativeDocumentMoniker": "UI\\UI.csproj",
+              "ToolTip": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\UI.csproj",
+              "RelativeToolTip": "UI\\UI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-09-11T05:08:40.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrRun.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\FormView\\FrRun.cs",
+              "RelativeDocumentMoniker": "UI\\FormView\\FrRun.cs",
+              "ToolTip": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\FormView\\FrRun.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "UI\\FormView\\FrRun.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T06:59:13.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrProduct.cs",
+              "DocumentMoniker": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\FormView\\FrProduct.cs",
+              "RelativeDocumentMoniker": "UI\\FormView\\FrProduct.cs",
+              "ToolTip": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\FormView\\FrProduct.cs",
+              "RelativeToolTip": "UI\\FormView\\FrProduct.cs",
+              "ViewState": "AgIAAAkDAAAAAAAAAADwvxoDAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T07:14:12.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrSys.cs",
+              "DocumentMoniker": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\FormView\\FrSys.cs",
+              "RelativeDocumentMoniker": "UI\\FormView\\FrSys.cs",
+              "ToolTip": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\FormView\\FrSys.cs*",
+              "RelativeToolTip": "UI\\FormView\\FrSys.cs*",
+              "ViewState": "AgIAAKQBAAAAAAAAAAAtwLMBAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T02:54:55.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpDownLoad.cs",
+              "DocumentMoniker": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\Class\\UpDownLoad.cs",
+              "RelativeDocumentMoniker": "UI\\Class\\UpDownLoad.cs",
+              "ToolTip": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\Class\\UpDownLoad.cs",
+              "RelativeToolTip": "UI\\Class\\UpDownLoad.cs",
+              "ViewState": "AgIAAGYHAAAAAAAAAAAIwH0HAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T02:51:55.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AffineCail.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\Compment\\AffineCail.cs",
+              "RelativeDocumentMoniker": "UI\\Compment\\AffineCail.cs",
+              "ToolTip": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\Compment\\AffineCail.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "UI\\Compment\\AffineCail.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T05:44:08.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "XT.cs",
+              "DocumentMoniker": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\Class\\XT.cs",
+              "RelativeDocumentMoniker": "UI\\Class\\XT.cs",
+              "ToolTip": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\Class\\XT.cs",
+              "RelativeToolTip": "UI\\Class\\XT.cs",
+              "ViewState": "AgIAAOkCAAAAAAAAAAAowAEDAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T02:18:10.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrProduct.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\FormView\\FrProduct.cs",
+              "RelativeDocumentMoniker": "UI\\FormView\\FrProduct.cs",
+              "ToolTip": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\FormView\\FrProduct.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "UI\\FormView\\FrProduct.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:25:50.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\MotionCtrl\\Class\\Utility.cs",
+              "RelativeDocumentMoniker": "MotionCtrl\\Class\\Utility.cs",
+              "ToolTip": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\MotionCtrl\\Class\\Utility.cs",
+              "RelativeToolTip": "MotionCtrl\\Class\\Utility.cs",
+              "ViewState": "AgIAALIDAAAAAAAAAAAAAMgDAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T02:03:13.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "XtOfsAdj.cs",
+              "DocumentMoniker": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\Compment\\XtOfsAdj.cs",
+              "RelativeDocumentMoniker": "UI\\Compment\\XtOfsAdj.cs",
+              "ToolTip": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\Compment\\XtOfsAdj.cs",
+              "RelativeToolTip": "UI\\Compment\\XtOfsAdj.cs",
+              "ViewState": "AgIAABECAAAAAAAAAAAewB4CAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T05:42:50.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "XtOfsAdj.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\Compment\\XtOfsAdj.cs",
+              "RelativeDocumentMoniker": "UI\\Compment\\XtOfsAdj.cs",
+              "ToolTip": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\Compment\\XtOfsAdj.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "UI\\Compment\\XtOfsAdj.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T07:32:08.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TestWorkStation.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\Compment\\TestWorkStation.cs",
+              "RelativeDocumentMoniker": "UI\\Compment\\TestWorkStation.cs",
+              "ToolTip": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\Compment\\TestWorkStation.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "UI\\Compment\\TestWorkStation.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:24:08.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "myfunc.cs",
+              "DocumentMoniker": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\Class\\myfunc.cs",
+              "RelativeDocumentMoniker": "UI\\Class\\myfunc.cs",
+              "ToolTip": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\Class\\myfunc.cs",
+              "RelativeToolTip": "UI\\Class\\myfunc.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAD4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:30:41.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Grpc.cs",
+              "DocumentMoniker": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\Class\\Grpc.cs",
+              "RelativeDocumentMoniker": "UI\\Class\\Grpc.cs",
+              "ToolTip": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\Class\\Grpc.cs",
+              "RelativeToolTip": "UI\\Class\\Grpc.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAuwEUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T00:50:41.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SerialCommunication .cs",
+              "DocumentMoniker": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\Class\\SerialCommunication .cs",
+              "RelativeDocumentMoniker": "UI\\Class\\SerialCommunication .cs",
+              "ToolTip": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\Class\\SerialCommunication .cs",
+              "RelativeToolTip": "UI\\Class\\SerialCommunication .cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAgwFMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T02:31:09.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WsModuelDef.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\Compment\\WsModuelDef.cs",
+              "RelativeDocumentMoniker": "UI\\Compment\\WsModuelDef.cs",
+              "ToolTip": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\Compment\\WsModuelDef.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "UI\\Compment\\WsModuelDef.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:24:00.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TestWorkStation.cs",
+              "DocumentMoniker": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\Compment\\TestWorkStation.cs",
+              "RelativeDocumentMoniker": "UI\\Compment\\TestWorkStation.cs",
+              "ToolTip": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\Compment\\TestWorkStation.cs",
+              "RelativeToolTip": "UI\\Compment\\TestWorkStation.cs",
+              "ViewState": "AgIAAMYCAAAAAAAAAAAcwNMCAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:36:30.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Test_WorkStation.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\Compment\\Test_WorkStation.cs",
+              "RelativeDocumentMoniker": "UI\\Compment\\Test_WorkStation.cs",
+              "ToolTip": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\Compment\\Test_WorkStation.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "UI\\Compment\\Test_WorkStation.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T01:07:32.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WorkStation.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\Compment\\WorkStation.cs",
+              "RelativeDocumentMoniker": "UI\\Compment\\WorkStation.cs",
+              "ToolTip": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\Compment\\WorkStation.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "UI\\Compment\\WorkStation.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:23:59.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TrayBox.cs",
+              "DocumentMoniker": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\Class\\TrayBox.cs",
+              "RelativeDocumentMoniker": "UI\\Class\\TrayBox.cs",
+              "ToolTip": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\Class\\TrayBox.cs",
+              "RelativeToolTip": "UI\\Class\\TrayBox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T06:04:42.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IlluminationController.cs",
+              "DocumentMoniker": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\Class\\IlluminationController.cs",
+              "RelativeDocumentMoniker": "UI\\Class\\IlluminationController.cs",
+              "ToolTip": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\Class\\IlluminationController.cs",
+              "RelativeToolTip": "UI\\Class\\IlluminationController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAcwFkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T05:07:04.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SerialCom.cs",
+              "DocumentMoniker": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\Class\\SerialCom.cs",
+              "RelativeDocumentMoniker": "UI\\Class\\SerialCom.cs",
+              "ToolTip": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\Class\\SerialCom.cs",
+              "RelativeToolTip": "UI\\Class\\SerialCom.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAmwEIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:49:43.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MyType.cs",
+              "DocumentMoniker": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\MotionCtrl\\Class\\MyType.cs",
+              "RelativeDocumentMoniker": "MotionCtrl\\Class\\MyType.cs",
+              "ToolTip": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\MotionCtrl\\Class\\MyType.cs",
+              "RelativeToolTip": "MotionCtrl\\Class\\MyType.cs",
+              "ViewState": "AgIAAO8EAAAAAAAAAAAowPoEAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T04:56:23.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MSG.cs",
+              "DocumentMoniker": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\MotionCtrl\\Class\\MSG.cs",
+              "RelativeDocumentMoniker": "MotionCtrl\\Class\\MSG.cs",
+              "ToolTip": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\MotionCtrl\\Class\\MSG.cs",
+              "RelativeToolTip": "MotionCtrl\\Class\\MSG.cs",
+              "ViewState": "AgIAAPcAAAAAAAAAAAAEwO8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:38:17.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "XSJlight.cs",
+              "DocumentMoniker": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\Class\\XSJlight.cs",
+              "RelativeDocumentMoniker": "UI\\Class\\XSJlight.cs",
+              "ToolTip": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\Class\\XSJlight.cs",
+              "RelativeToolTip": "UI\\Class\\XSJlight.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADwvxUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:35:42.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Test_WorkStation.cs",
+              "DocumentMoniker": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\Compment\\Test_WorkStation.cs",
+              "RelativeDocumentMoniker": "UI\\Compment\\Test_WorkStation.cs",
+              "ToolTip": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\Compment\\Test_WorkStation.cs",
+              "RelativeToolTip": "UI\\Compment\\Test_WorkStation.cs",
+              "ViewState": "AgIAAJUBAAAAAAAAAAAkwKgBAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:22:59.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FrRun.cs",
+              "DocumentMoniker": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\FormView\\FrRun.cs",
+              "RelativeDocumentMoniker": "UI\\FormView\\FrRun.cs",
+              "ToolTip": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\UI\\FormView\\FrRun.cs",
+              "RelativeToolTip": "UI\\FormView\\FrRun.cs",
+              "ViewState": "AgIAAP8AAAAAAAAAAAAWwA4BAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T06:59:34.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MotionCtrl",
+              "DocumentMoniker": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\MotionCtrl\\MotionCtrl.csproj",
+              "RelativeDocumentMoniker": "MotionCtrl\\MotionCtrl.csproj",
+              "ToolTip": "E:\\\u6D4B\u8BD5\u7C7B\u8BBE\u5907\\Pre-Mini\\\u7A0B\u5E8F\\\u66F4\u65B0\\\u5E38\u89C4\u7EBF\u4F53\\Pre-Mini 20240909\\MotionCtrl\\MotionCtrl.csproj",
+              "RelativeToolTip": "MotionCtrl\\MotionCtrl.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-31T01:47:05.566Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

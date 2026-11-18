@@ -1,0 +1,1 @@
+{"S":1,"F":18,"Type":"S1F18","Text":"<B[1] 0x00>\r\n.","FileName":"设为在线.sml","Desc":"","CommandInfos":[],"SelectVariable":null,"TriggerInterval":0,"TriggerIndex":3,"CompareIndex":0,"CompareValue":null,"TriggerType":"S1F17","IsReplyExpected":false}

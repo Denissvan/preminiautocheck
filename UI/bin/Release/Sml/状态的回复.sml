@@ -1,0 +1,1 @@
+{"S":1,"F":4,"Type":"S1F4","Text":"<L[2]\r\n    <U4[1] 12>\r\n    <F4[1] 5.5>\r\n    <I4[1] 0>\r\n>\r\n.","FileName":"状态的回复.sml","Desc":"","CommandInfos":[],"SelectVariable":null,"TriggerInterval":0,"TriggerIndex":0,"CompareIndex":0,"CompareValue":null,"TriggerType":"S1F3","IsReplyExpected":false}

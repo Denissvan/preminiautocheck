@@ -1,0 +1,297 @@
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\bin\x86\WLTmini.exe.config
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x86\Debug\Interop.RDPCOMAPILib.dll
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x86\Debug\AxInterop.RDPCOMAPILib.dll
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x86\Debug\UI.csproj.ResolveComReference.cache
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\bin\x86\WLTmini.exe
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\bin\x86\WLTmini.pdb
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\bin\x86\MotionCtrl.dll
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\bin\x86\System.Data.SQLite.dll
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\bin\x86\VncSharp.dll
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\bin\x86\NModbus4.dll
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\bin\x86\MotionCtrl.pdb
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\bin\x86\NModbus4.xml
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\bin\x86\Interop.RDPCOMAPILib.dll
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\bin\x86\AxInterop.RDPCOMAPILib.dll
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x86\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x86\Debug\UI.Compment.AffineCail.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x86\Debug\UI.Compment.AZD.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x86\Debug\UI.Compment.CameraList.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x86\Debug\UI.CogBlockEidt.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x86\Debug\UI.CogDisplayer.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x86\Debug\UI.DownLoad.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x86\Debug\UI.Compment.NpointCail.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x86\Debug\UI.Compment.RotAndFly.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x86\Debug\UI.NGcode.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x86\Debug\UI.SQLSelector.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x86\Debug\UI.Compment.TrayCfg.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x86\Debug\UI.WsModuelDef.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x86\Debug\UI.Compment.LightBoxDef.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x86\Debug\RowMergeView.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x86\Debug\UI.traybox.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x86\Debug\UI.Compment.Turnplate.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x86\Debug\UI.UpLoad.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x86\Debug\UI.Station.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x86\Debug\UI.WorkStation.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x86\Debug\UI.tray.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x86\Debug\UI.Compment.XtOfsAdj.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x86\Debug\UI.FrMain.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x86\Debug\UI.FrCount.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x86\Debug\UI.FrSys.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x86\Debug\UI.FrProduct.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x86\Debug\UI.FrRst.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x86\Debug\UI.FrRun.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x86\Debug\UI.FrUser.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x86\Debug\UI.warning.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x86\Debug\UI.Properties.Resources.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x86\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x86\Debug\WLTmini.exe
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x86\Debug\WLTmini.pdb
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\bin\x86\LAT.exe.config
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\bin\x86\LAT.exe
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\bin\x86\LAT.pdb
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\bin\x86\MotionCtrl.dll
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\bin\x86\SocketHelper.dll
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\bin\x86\System.Data.SQLite.dll
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\bin\x86\VncSharp.dll
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\bin\x86\NModbus4.dll
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\bin\x86\MotionCtrl.pdb
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\bin\x86\SocketHelper.pdb
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\bin\x86\NModbus4.xml
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\bin\x86\Interop.RDPCOMAPILib.dll
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\bin\x86\AxInterop.RDPCOMAPILib.dll
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\obj\x86\Debug\UI.csprojResolveAssemblyReference.cache
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\obj\x86\Debug\Interop.RDPCOMAPILib.dll
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\obj\x86\Debug\AxInterop.RDPCOMAPILib.dll
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\obj\x86\Debug\UI.csproj.ResolveComReference.cache
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\obj\x86\Debug\UI.Compment.AffineCail.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\obj\x86\Debug\UI.Compment.CameraList.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\obj\x86\Debug\UI.CogBlockEidt.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\obj\x86\Debug\UI.CogDisplayer.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\obj\x86\Debug\UI.Compment.Communication_PC.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\obj\x86\Debug\UI.DownLoad.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\obj\x86\Debug\UI.Compment.MaskDisplay.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\obj\x86\Debug\UI.Compment.NpointCail.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\obj\x86\Debug\UI.Compment.PMAlignEdit.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\obj\x86\Debug\ParamSet.PosGet.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\obj\x86\Debug\UI.Compment.RotAndFly.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\obj\x86\Debug\UI.SQLSelector.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\obj\x86\Debug\UI.Compment.TaskNpoint.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\obj\x86\Debug\UI.Compment.Test_WorkStation.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\obj\x86\Debug\UI.Compment.TrayCfg.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\obj\x86\Debug\UI.WsModuelDef.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\obj\x86\Debug\RowMergeView.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\obj\x86\Debug\UI.traybox.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\obj\x86\Debug\UI.Compment.Turnplate.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\obj\x86\Debug\UI.UpLoad.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\obj\x86\Debug\UI.Station.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\obj\x86\Debug\UI.WorkStation.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\obj\x86\Debug\UI.tray.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\obj\x86\Debug\UI.Compment.XtOfsAdj.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\obj\x86\Debug\UI.FrMain.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\obj\x86\Debug\UI.FrSys.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\obj\x86\Debug\UI.FrProduct.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\obj\x86\Debug\UI.FrRst.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\obj\x86\Debug\UI.FrRun.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\obj\x86\Debug\UI.FrUser.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\obj\x86\Debug\UI.warning.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\obj\x86\Debug\UI.Properties.Resources.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\obj\x86\Debug\UI.csproj.GenerateResource.Cache
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\obj\x86\Debug\LAT.exe
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.2\LAT1.2\UI\obj\x86\Debug\LAT.pdb
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\bin\x86\LAT.exe.config
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\obj\x86\Debug\Interop.RDPCOMAPILib.dll
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\obj\x86\Debug\AxInterop.RDPCOMAPILib.dll
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.csproj.ResolveComReference.cache
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\obj\x86\Debug\LAT.exe
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\obj\x86\Debug\LAT.pdb
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\bin\x86\LAT.exe
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\bin\x86\LAT.pdb
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\bin\x86\MotionCtrl.dll
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\bin\x86\SocketHelper.dll
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\bin\x86\System.Data.SQLite.dll
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\bin\x86\VncSharp.dll
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\bin\x86\NModbus4.dll
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\bin\x86\MotionCtrl.pdb
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\bin\x86\SocketHelper.pdb
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\bin\x86\NModbus4.xml
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\bin\x86\Interop.RDPCOMAPILib.dll
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\bin\x86\AxInterop.RDPCOMAPILib.dll
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.csprojResolveAssemblyReference.cache
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.Compment.AffineCail.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.Compment.CameraList.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.CogBlockEidt.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.CogDisplayer.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.Compment.Communication_PC.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.DownLoad.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.Compment.MaskDisplay.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.Compment.NpointCail.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.Compment.PMAlignEdit.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\obj\x86\Debug\ParamSet.PosGet.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.Compment.RotAndFly.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.Compment.TaskNpoint.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.Compment.Test_WorkStation.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.Compment.TrayCfg.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.WsModuelDef.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\obj\x86\Debug\RowMergeView.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.traybox.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.Compment.Turnplate.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.UpLoad.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.Station.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.WorkStation.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.tray.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.Compment.XtOfsAdj.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.FrMain.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.FrSys.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.FrProduct.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.FrRst.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.FrRun.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.FrUser.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.warning.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.Properties.Resources.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\bin\x86\LAT.exe.config
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\obj\x86\Debug\Interop.RDPCOMAPILib.dll
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\obj\x86\Debug\AxInterop.RDPCOMAPILib.dll
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\obj\x86\Debug\LAT.exe
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\obj\x86\Debug\LAT.pdb
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\bin\x86\LAT.exe
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\bin\x86\LAT.pdb
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\bin\x86\MotionCtrl.dll
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\bin\x86\SocketHelper.dll
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\bin\x86\VncSharp.dll
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\bin\x86\NModbus4.dll
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\bin\x86\MotionCtrl.pdb
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\bin\x86\SocketHelper.pdb
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\bin\x86\NModbus4.xml
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\bin\x86\Interop.RDPCOMAPILib.dll
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\bin\x86\AxInterop.RDPCOMAPILib.dll
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.Compment.AffineCail.resources
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.Compment.CameraList.resources
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.CogBlockEidt.resources
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.CogDisplayer.resources
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.Compment.Communication_PC.resources
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.DownLoad.resources
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.Compment.MaskDisplay.resources
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.Compment.NpointCail.resources
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.Compment.PMAlignEdit.resources
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\obj\x86\Debug\ParamSet.PosGet.resources
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.Compment.RotAndFly.resources
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.Compment.TaskNpoint.resources
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.Compment.Test_WorkStation.resources
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.Compment.TrayCfg.resources
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.WsModuelDef.resources
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\obj\x86\Debug\RowMergeView.resources
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.traybox.resources
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.Compment.Turnplate.resources
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.UpLoad.resources
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.Station.resources
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.WorkStation.resources
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.tray.resources
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.Compment.XtOfsAdj.resources
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.FrMain.resources
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.FrSys.resources
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.FrProduct.resources
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.FrRst.resources
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.FrRun.resources
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.FrUser.resources
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.warning.resources
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.Properties.Resources.resources
+C:\Users\Administrator\Desktop\LAT1.3\LAT1.3\UI\obj\x86\Debug\UI.csproj.GenerateResource.Cache
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\bin\x86\LAT.exe.config
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\obj\x86\Debug\Interop.RDPCOMAPILib.dll
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\obj\x86\Debug\AxInterop.RDPCOMAPILib.dll
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\obj\x86\Debug\UI.csproj.ResolveComReference.cache
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\obj\x86\Debug\LAT.exe
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\obj\x86\Debug\LAT.pdb
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\bin\x86\LAT.exe
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\bin\x86\LAT.pdb
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\bin\x86\MotionCtrl.dll
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\bin\x86\SocketHelper.dll
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\bin\x86\VncSharp.dll
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\bin\x86\NModbus4.dll
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\bin\x86\MotionCtrl.pdb
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\bin\x86\SocketHelper.pdb
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\bin\x86\NModbus4.xml
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\bin\x86\Interop.RDPCOMAPILib.dll
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\bin\x86\AxInterop.RDPCOMAPILib.dll
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\obj\x86\Debug\UI.csprojResolveAssemblyReference.cache
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\obj\x86\Debug\UI.Compment.AffineCail.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\obj\x86\Debug\UI.Compment.CameraList.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\obj\x86\Debug\UI.CogBlockEidt.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\obj\x86\Debug\UI.CogDisplayer.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\obj\x86\Debug\UI.Compment.Communication_PC.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\obj\x86\Debug\UI.DownLoad.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\obj\x86\Debug\UI.Compment.MaskDisplay.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\obj\x86\Debug\UI.Compment.NpointCail.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\obj\x86\Debug\UI.Compment.PMAlignEdit.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\obj\x86\Debug\ParamSet.PosGet.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\obj\x86\Debug\UI.Compment.RotAndFly.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\obj\x86\Debug\UI.Compment.TaskNpoint.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\obj\x86\Debug\UI.Compment.Test_WorkStation.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\obj\x86\Debug\UI.Compment.TrayCfg.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\obj\x86\Debug\UI.WsModuelDef.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\obj\x86\Debug\RowMergeView.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\obj\x86\Debug\UI.traybox.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\obj\x86\Debug\UI.UpLoad.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\obj\x86\Debug\UI.Station.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\obj\x86\Debug\UI.WorkStation.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\obj\x86\Debug\UI.tray.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\obj\x86\Debug\UI.Compment.XtOfsAdj.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\obj\x86\Debug\UI.FrMain.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\obj\x86\Debug\UI.FrSys.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\obj\x86\Debug\UI.FrProduct.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\obj\x86\Debug\UI.FrRst.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\obj\x86\Debug\UI.FrRun.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\obj\x86\Debug\UI.FrUser.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\obj\x86\Debug\UI.warning.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\obj\x86\Debug\UI.Properties.Resources.resources
+F:\工作\项目文件\镜头全检设备\程序\LAT\LAT1.4\LAT1.4\UI\obj\x86\Debug\UI.csproj.GenerateResource.Cache
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\bin\x86\LAT.exe.config
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\bin\x86\LAT.exe
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\bin\x86\LAT.pdb
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\bin\x86\MotionCtrl.dll
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\bin\x86\SocketHelper.dll
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\bin\x86\VncSharp.dll
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\bin\x86\NModbus4.dll
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\bin\x86\MotionCtrl.pdb
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\bin\x86\SocketHelper.pdb
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\bin\x86\NModbus4.xml
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\bin\x86\Interop.RDPCOMAPILib.dll
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\bin\x86\AxInterop.RDPCOMAPILib.dll
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x86\Debug\UI.csprojResolveAssemblyReference.cache
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x86\Debug\Interop.RDPCOMAPILib.dll
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x86\Debug\AxInterop.RDPCOMAPILib.dll
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x86\Debug\UI.csproj.ResolveComReference.cache
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x86\Debug\UI.Compment.AffineCail.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x86\Debug\UI.Compment.CameraList.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x86\Debug\UI.CogBlockEidt.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x86\Debug\UI.CogDisplayer.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x86\Debug\UI.Compment.Communication_PC.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x86\Debug\UI.Compment.MaskDisplay.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x86\Debug\UI.Compment.NpointCail.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x86\Debug\UI.Compment.PMAlignEdit.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x86\Debug\ParamSet.PosGet.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x86\Debug\UI.Compment.RotAndFly.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x86\Debug\UI.Compment.TaskNpoint.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x86\Debug\UI.Compment.Test_WorkStation.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x86\Debug\UI.Compment.TrayCfg.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x86\Debug\UI.WsModuelDef.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x86\Debug\RowMergeView.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x86\Debug\UI.traybox.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x86\Debug\UI.UpLoad.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x86\Debug\UI.WorkStation.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x86\Debug\UI.tray.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x86\Debug\UI.Compment.XtOfsAdj.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x86\Debug\UI.FrMain.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x86\Debug\UI.FrSys.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x86\Debug\UI.FrProduct.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x86\Debug\UI.FrRst.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x86\Debug\UI.FrRun.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x86\Debug\UI.FrUser.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x86\Debug\UI.warning.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x86\Debug\UI.Properties.Resources.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x86\Debug\UI.csproj.GenerateResource.Cache
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x86\Debug\LAT.exe
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x86\Debug\LAT.pdb

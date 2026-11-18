@@ -1,0 +1,519 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Softimite Language="简体中文">
+  <Form> 
+    <!--运行界面-->
+	<Name>FrRun</Name>
+    <Controls>
+	  <Control name="btn_run" text="运行"></Control>
+	  <Control name="btn_stop" text="停止"></Control>
+	  <Control name="btn_pause" text="暂停"></Control>
+	  <Control name="btn_new_traybox_fd" text="更换供料盒"></Control>
+	  <Control name="btn_new_traybox_ok" text="更换OK料盘"></Control>
+	  <Control name="btn_new_traybox_ng" text="更换NG料盘"></Control>
+	  <Control name="btn_home" text="归位"></Control>
+	  <Control name="rbtn_NormalProduct" text="正常产品"></Control>
+	  <Control name="rbtn_RetestProduct" text="复测产品"></Control>
+	  <Control name="tp_ws_status" text=" 工站状态   "></Control>
+	  <Control name="tp_lightbox" text="光箱状态   "></Control>
+	  <Control name="tp_vision" text="设备信息   "></Control>
+	  <Control name="tp_count" text="统计数据   "></Control>
+	  <Control name="btn_tray_up" text="上升"></Control>
+	  <Control name="btn_tray_down" text="下降"></Control>
+	  <Control name="btn_tray_in" text="进料"></Control>
+	  <Control name="btn_tray_out" text="出料"></Control>
+	  
+	  <Control name="label6" text="GRR测试线程信息"></Control>
+	  <Control name="label8" text="当前测试次数"></Control>
+	  <Control name="label9" text="当前轮换次数"></Control>
+	  <Control name="label10" text="设定测试次数"></Control>
+	  <Control name="label11" text="设定轮换次数"></Control>
+	  <Control name="lb_left_lightbox" text="左光箱"></Control>
+	  <Control name="lb_lightbox_left_posref" text="位置信息"></Control>
+	  <Control name="lb_right_lightbox" text="右光箱"></Control>
+	  <Control name="lb_lightbox_right_posref" text="位置信息"></Control>
+	  <Control name="ckb_Check" text="点检模式"></Control>
+	  <Control name="ckb_not_open" text="不打开工装"></Control>
+	  <Control name="ckb_wait_upload" text="等待上下料"></Control>
+	  <Control name="label12" text="点检测试次数:"></Control>
+	  <Control name="label13" text="生产统计:"></Control>
+	  <Control name="label4" text="投入:"></Control>
+	  <Control name="label3" text="良率:"></Control>  
+	  <Control name="label2" text="运行:"></Control>
+	  <Control name="label15" text="稼动率:"></Control>
+	  <Control name="label21" text="待料时间:"></Control>
+	  <Control name="label1" text="产出:"></Control>
+	  <Control name="label7" text="UPH::"></Control>
+	  <Control name="label5" text="停止:"></Control>
+	  <Control name="label19" text="开图率:"></Control>
+	  <Control name="label20" text="吸料异常:"></Control>
+	  <Control name="label17" text="上次清零"></Control>
+	  <Control name="btn_SetZero" text="清零"></Control>
+	  <Control name="label144" text="保养数据"></Control>
+	  <Control name="label188" text="夹具保养"></Control>
+	  <Control name="label166" text="设备保养:"></Control>
+	  <Control name="btn_FixtrueMT" text="清零:"></Control>
+	  <Control name="btn_EquimentMT" text="清零:"></Control>
+
+	  <Control name="btn_img" text="图片"/>
+	  <Control name="btn_live" text="实况"/>
+	  <Control name="btn_triger" text="触发"/>
+	  
+	 
+	</Controls>
+  </Form>
+  <Form> 
+      <!--主界面-->
+	<Name>FrMain</Name>
+	<Controls>
+	  <Control name="toolStripMenuItem1" text="语言"/>
+	  <Control name="chineseToolStripMenuItem" text="中文"/>
+	  <Control name="englishToolStripMenuItem" text="英文"/>
+	  <Control name="lb_ver" text="宁波舜宇光电信息有限公司"/>
+	  <Control name="lbl_update" text="检"/>
+	</Controls>
+  </Form>
+  <Form> 
+      <!--主界面-->
+	<Name>FrRst</Name>
+	<Controls>
+	  <Control name="label3" text="左光箱模组"/>
+	  <Control name="label2" text="测试转台"/>
+	  <Control name="label4" text="右光箱模组"/>
+	  <Control name="label1" text="上下料模组2"/>
+	  <Control name="label5" text="上下料模组1"/>
+	  <Control name="btn_lightbox_left_home" text="回零"/>
+	  <Control name="btn_lightbox_left_stop" text="停止"/>
+	  <Control name="btn_zt_home" text="回零"/>
+	  <Control name="btn_zt_stop" text="停止"/>
+	  <Control name="btn_lightbox_right_home" text="回零"/>
+	  <Control name="btn_lightbox_right_stop" text="停止"/>
+	  <Control name="btn_ul_dl_home" text="回零"/>
+	  <Control name="btn_ul_dl_stop" text="停止"/>
+	  <Control name="btn_all_home" text="回零"/>
+	  <Control name="btn__all_stop" text="停止"/>
+	  
+	</Controls>
+  </Form>
+  <Form> 
+      <!--系统设置界面-->
+	<Name>FrSys</Name>
+	<Controls>
+	  <Control name="groupBox6" text="模组放好回检设置"/>
+	  <Control name="groupBox1" text="模组带起克服设置(ms)"/>
+	  <Control name="groupBox5" text="GRR测试流程设置"/>
+	  <Control name="groupBox8" text="吸头下相机拍照偏移"/>
+	  <Control name="grb_runmode" text="设备运行模式设置"/>
+	  <Control name="grb_workmode" text="上下料运行方式"/>
+	  <Control name="groupBox10" text="高透膜偏移检测设置(mm)"/>
+	  <Control name="groupBox11" text="保养提醒(次)"/>
+	  <Control name="grb_barcode" text="二维码扫码方式"/>
+	  <Control name="groupBox18" text="同工位连续同NG提示"/>
+	  <Control name="groupBox20" text="工站同一排连续同NG工位提示"/>
+	  <Control name="groupBox15" text="模组数量"/>
+	  <Control name="groupBox16" text="模组开启设置"/>
+	  <Control name="groupBox7" text="增距镜Y1开启设置(不能变更)"/>
+	  <Control name="groupBox3" text="上下料移动保护(针对转盘)"/>	  
+	  <Control name="groupBox2" text="视觉检测料盘设置"/>
+	  <Control name="grb_safe" text="门禁开启设置"/>
+	  <Control name="groupBoxbarcode" text="二维码回检设置"/>
+	  <Control name="groupBox13" text="左右光箱开启设置"/>
+	  <Control name="groupBox19" text="数据上传设置"/>
+	  <Control name="groupBox4" text="图片存储设置"/>
+	  <Control name="groupBox9" text="工站视觉模板增加有无检测"/>
+	  <Control name="groupBox12" text="工站二次取料开启设置"/>
+	  <Control name="groupBox17" text="取放料角度设置"/>
+	  <Control name="groupBox14" text="开图顺序设置"/>
+	  <Control name="groupBox21" text="霍尔测试"/>
+	  <Control name="groupBox22" text="料盘二维码拍照设置"/>
+	  <Control name="groupBox23" text="吸头1先运动设置"/>	 
+	  
+	  <Control name="Chk_OpenVs" text="模组放好回检开启"/>
+	  <Control name="label4" text="XY允许偏差:"/>
+	  <Control name="label3" text="R允许偏差:"/>
+	  <Control name="Chk_ModPasteUp" text="克服模组带起开启"/>
+	  <Control name="label6" text="放料延时:"/>	  
+	  <Control name="label5" text="提起延时:"/>
+	  <Control name="chk_grr" text="GRR测试开启"/>
+	  <Control name="label1" text="测试次数:"/>
+	  <Control name="label2" text="轮换次数:"/>
+	  <Control name="label7" text="吸头1偏移(mm):"/>
+	  <Control name="label12" text="吸头2偏移(mm):"/>
+	  <Control name="label8" text="吸头3偏移(mm):"/>
+	  <Control name="label11" text="吸头4偏移(mm):"/>
+	  <Control name="rbtn_run_normal" text="生产模式"/>
+	  <Control name="rbtn_run_updw" text="有料空跑"/>
+	  <Control name="rbtn_run_empty" text="无料空跑"/>
+	  <Control name="rbtn_twomd" text="两模块协同工作"/>
+	  <Control name="rbtn_md1" text="模块1工作"/>	  
+	  <Control name="rbtn_md2" text="模块2工作"/>
+	  <Control name="chk_GTMCheck" text="高透膜偏移检测开启:"/>
+	  <Control name="label14" text="接受距离:"/>
+	  <Control name="label15" text="夹具保养频率:"/>
+	  <Control name="label13" text="设备保养频率:"/>
+	  <Control name="rbtn_upcode" text="上相机扫码"/>
+	  <Control name="rbtn_dwcode" text="下相机扫码"/>
+	  <Control name="chk_SameNGTip" text="开启提示"/>
+	  <Control name="label18" text="连续次数:"/>
+	  <Control name="chk_SameRowNGTip" text="开启提示"/>
+	  <Control name="label19" text="单排同NG个数"/>
+	  <Control name="rbtn_small" text="16模组"/>
+	  <Control name="rbtn_big" text="8模组"/>
+	  <Control name="rbtn_single" text="单开"/>
+	  <Control name="rbtn_double" text="双开"/>
+	  <Control name="rbtn_Lag" text="9-16开"/>
+	  <Control name="rbtn_Sml" text="1-8开"/>
+
+	  <Control name="rbtn_Y1en" text="开启Y1"/>
+	  <Control name="rbtn_Y1dis" text="关闭Y1"/>
+	  <Control name="rbtn_safeon" text="开启保护"/>
+	  <Control name="rbtn_safeoff" text="关闭保护"/>
+	  <Control name="rbtn_OpenVsTray" text="开启"/>	  
+	  <Control name="rbtn_CloseVsTray" text="关闭"/>
+	  <Control name="chk_updown" text="上下料门禁"/>
+	  <Control name="chk_leftlightbox" text="左光箱门禁"/>
+	  <Control name="chk_tray" text="转盘门禁"/>
+	  <Control name="chk_rightlightbox" text="右光箱门禁"/>
+	  <Control name="rbtn_OpenBarCamBack" text="开启"/>
+	  <Control name="rbtn_CloseBarCamBack" text="关闭"/>
+	  <Control name="rbtn_lben" text="开启光箱"/>
+	  <Control name="rbtn_lbdis" text="关闭光箱"/>
+	  <Control name="chk_UpdateSoft" text="软件更新提示"/>
+	  <Control name="chk_UpLoadData" text="设备数据上传"/>
+	  <Control name="chk_upcam1" text="上相机1"/>
+	  <Control name="chk_dwcam1" text="下相机1"/>	  
+	  <Control name="chk_upcam2" text="上相机2"/>
+	  <Control name="chk_dwcam2" text="下相机2:"/>
+	  <Control name="rbtn_OpenWsVsAddCheck" text="开启"/>
+	  <Control name="rbtn_CloseWsVsAddCheck" text="关闭"/>
+	  <Control name="rbtn_OpenWsPickAgain" text="开启"/>
+	  <Control name="rbtn_CloseWsPickAgain" text="关闭"/>
+	  <Control name="rbtn_open_degree" text="开启"/>
+	  <Control name="rbtn_close_degree" text="关闭"/>
+	  <Control name="label17" text="角度:"/>
+	  <Control name="rbtn_pre_turnon" text="上完料开图"/>
+	  <Control name="rbtn_next_turnon" text="旋转后开图"/>
+	  <Control name="label16" text="开图延时:"/>
+	  <Control name="rbtn_hallen" text="开启"/>
+	  <Control name="rbtn_halldis" text="关闭"/>
+	  <Control name="rbtn_traybaren" text="开启"/>
+	  <Control name="rbtn_traybardis" text="关闭"/>
+	  <Control name="rbtn_xt1firsten" text="开启"/>
+	  <Control name="rbtn_xt1firstdis" text="关闭"/>
+	  
+	  <Control name="tp_card" text="板卡状态"/>
+	  <Control name="tp_axis" text="轴参数"/>
+	  <Control name="tp_gpio" text="输入输出"/>
+	  <Control name="tp_sysparm" text="参数设置"/>
+	  <Control name="tp_calc" text="系统校准"/>
+	  
+	  <Control name="ctp_ax_udl1" text="上下料1    "/>
+	  <Control name="ctp_ax_udl2" text="上下料2      "/>
+	  <Control name="ctp_ax_lc" text="料仓    "/>
+	  <Control name="ctp_ax_box_left" text="左光箱    "/>  
+	  <Control name="ctp_ax_box_right" text="右光箱    "/>
+	  <Control name="ctp_ax_otp" text="OTP光箱    "/>
+	  <Control name="ctp_ax_ws" text="工站旋转    "/>
+	  <Control name="ctp_ax_all" text="所有轴    "/>
+	  <Control name="label_ax_table" text="轴调试"/>
+	  <Control name="label10" text="轴参数"/>
+	  
+	  <Control name="tp_out" text="输出      "/>
+	  <Control name="tp_in" text="输入      "/>
+	  <Control name="tp_cy" text="气缸/组合      "/>
+	  <Control name="btn_update_card" text="更新到控制器"/>
+	  <Control name="btn_load_axis_cfg" text="加载"/>
+	  <Control name="btn_save_axis_cfg" text="保存"/>
+	  <Control name="btn_stop" text="停止"/>
+	  <Control name="ctb_SetParm" text="保存"/>
+	  <Control name="btn_ptset_save" text="保存"/>
+	  
+	  <Control name="tb_upcam1_npoint" text="上相机1标定"/>
+	  <Control name="tb_dwcam1_to_upcam1" text="下相机1->上相机1"/>
+	  <Control name="tb_dwcam2_to_upcam2" text="下相机2->上相机2"/>
+	  <Control name="Tb_ComputeCenter" text="旋转中心计算"/>
+	  <Control name="tb_task_npoint" text="任务标定"/>
+	  <Control name="tp_setparm_1" text="参数1(常用)"/>
+	  <Control name="tp_setparm_2" text="参数2          "/>
+	  
+
+	  <Control name="btn_affine_downcam_getpos" text="学习"/>
+	  <Control name="btn_affine_place_getpos" text="学习"/>
+	  <Control name="btn_affine_upcam_getpos" text="学习"/>
+	  <Control name="btn_affine_downcam_movpos" text="定位"/>
+	  <Control name="btn_affine_place_movpos" text="定位"/>
+	  <Control name="btn_affine_upcam_movpos" text="定位"/>
+	  <Control name="Btn_affine_downcam_action" text="1.拍照"/>
+	  <Control name="btn_affine_place_action" text="2.放料"/>
+	  <Control name="btn_affine_cail_action" text="3.矫正"/>
+	  <Control name="btn_affine_save_action" text="4.保存"/>
+	  <Control name="btn_live1" text="实时1"/>
+	  <Control name="btn_live2" text="实时2"/>
+	  <Control name="btn_cam2" text="拍照2"/>
+	  <Control name="btn_zk_ctrl" text="真空"/>
+	  <Control name="affinecailres" text="校准结果"/>
+
+      <Control name="lbl_unit_place" text="吸头1放料位"/>
+	  <Control name="npointlabel56" text="步进(mm)"/>
+	  <Control name="npointmk" text="模块选取:"/>
+	  <Control name="npointlabel2" text="注意：请确保所有相机的九点校正是在校正片位置不变的情况下进行"/>
+	  <Control name="Btn_unit_place_action" text="1.放料"/>
+	  <Control name="btn_unit_cali_action" text="2.校准"/>
+	  <Control name="btn_save_action" text="3.保存"/>
+	  <Control name="Btn_Live" text="实时"/>
+	  <Control name="btn_cam" text="拍照"/>
+	  <Control name="Btn_unit_place_getpos" text="学习"/>
+	  <Control name="btn_unit_cam_getpos" text="学习"/>
+	  <Control name="Btn_unit_place_movpos" text="定位"/>
+	  <Control name="btn_unit_cam_movpos" text="定位"/>
+	  <Control name="npointres" text="校准结果"/>
+	  
+	  <Control name="lbl_rot_downcam" text="下相机拍照位:"/>
+	  <Control name="lbl_rot_res" text="旋转结果:"/>
+	  <Control name="lbl_flycam_test" text="飞拍测试:"/>
+	  <Control name="lbl_flycam_offset" text="飞拍偏差:"/>
+	  <Control name="lbl_xt1_cap" text="吸头1位置偏差"/>
+	  <Control name="lbl_xt2_cap" text="吸头2位置偏差"/>
+	  <Control name="lbl_frontws" text="前排工站偏差"/>
+	  <Control name="lbl_behindws" text="后排工站偏差"/>
+	  <Control name="btn_rot_downcam_getpos" text="学习"/>
+	  <Control name="btn_rot_downcam_movpos" text="定位"/>
+	  <Control name="btn_rot_action" text="旋转中心"/>
+	  <Control name="lbl_xt" text="旋转中心吸头选取"/>
+	  <Control name="btn_fly_action" text="飞拍"/>
+	  <Control name="lbl_mk" text="飞拍矫正模块选取"/>
+
+	  <Control name="lbl_cam_pos" text="拍照位:"/>
+	  <Control name="label56" text="步进(mm)"/>
+	  <Control name="tn_lbl_upcam" text="上相机选取:"/>
+	  <Control name="tn_lbl_task" text="任务选取:"/>
+	  <Control name="btn_task_cam_getpos" text="学习"/>
+	  <Control name="btn_task_cam_movpos" text="定位"/>
+	  <Control name="btn_task_cali_action" text="校准"/>
+	  
+	  	  <Control name="btn_img" text="图片"/>
+	  <Control name="btn_live" text="实况"/>
+	  <Control name="btn_triger" text="触发"/>
+	</Controls>
+	
+	<DataGridViewCells>
+
+
+	</DataGridViewCells>
+  </Form>
+  <Form> 
+      <!--系统设置界面-->
+	<Name>FrProduct</Name>
+	<Controls>
+	  <Control name="label27" text="产品列表:"/>
+	  <Control name="label11" text="当前产品"/>
+	  <Control name="label12" text="新建产品"/>
+	  <Control name="btn_new" text="新建"/>
+	  <Control name="btn_rename" text="更名"/>
+	  <Control name="btn_del" text="删除"/>
+	  <Control name="btn_change" text="切换"/>
+	  <Control name="tp_file" text="产品"/>
+	  <Control name="tp_light_box" text="光箱"/>
+	  <Control name="tp_vision" text="视觉"/>
+	  <Control name="tp_tray" text="料盘"/>
+	  <Control name="tp_ws" text="工装"/>
+	  <Control name="tp_Adj" text="调试"/>
+	  <Control name="tp_lightbox_left" text="  左光箱    "/>
+	  <Control name="tp_lightbox_right" text="  右光箱    "/>
+	  <Control name="tp_lightbox_otp" text="  OTP光箱  "/>
+	  <Control name="light_btn_del" text="删除"/>
+	  <Control name="light_btn_add" text="增加"/>
+	  <Control name="light_btn_load" text="加载"/>
+	  <Control name="light_btn_save" text="保存"/>
+	  <Control name="light_btn_stop" text="停止"/>  
+	  <Control name="Tb_ComputeCenter" text="放置检查"/>
+	  <Control name="Tb_CameraCheckboard" text="模组识别"/>
+	  <Control name="Tb_CameraNpiont" text="工装位置"/>
+	  <Control name="Tb_DDCali" text="二维码"/>
+	  <Control name="tabPage1" text="料盘识别"/>
+	  
+	  <Control name="btn_pick" text="取料"/>
+	  <Control name="btn_dwcam" text="下拍照"/>
+	  <Control name="btn_upcam" text="上拍照"/>
+	  <Control name="btn_shp" text="轮廓"/>
+	  <Control name="btn_calc_ofs" text="计算偏差"/>
+	  <Control name="btn_place" text="试放"/>
+	  <Control name="rbtn_xt1" text="吸头1"/>
+	  <Control name="rbtn_xt2" text="吸头2"/>  
+	  <Control name="rbtn_xt3" text="吸头3"/>
+	  <Control name="rbtn_xt4" text="吸头4"/>
+	  <Control name="rbtn_palce" text="放料"/>
+	  <Control name="rbtn_pick" text="取料"/>
+	  <Control name="btn_center" text="料盘"/>
+	  <Control name="btn_cam" text="定位"/>
+	  <Control name="btn_get_upcam_pos" text="学习"/>
+	  <Control name="label7" text="工位编号"/>
+	  <Control name="btn_wsgoto" text="定位"/>
+	  <Control name="btn_goto" text="定位"/>
+	  <Control name="btn_PickWl" text="取料"/>
+	  <Control name="btn_zk" text="真空"/>
+	  <Control name="lbl_zhigh" text="Z高度:"/>  
+	  <Control name="btn_save_ofs" text="保存"/>
+	  <Control name="label_Offset" text="偏差"/>
+  	  <Control name="ctp_tray_fd" text="  供料盘  "/>
+	  <Control name="ctp_tray_ok" text="  OK料盘  "/>
+	  <Control name="ctp_tray_ng" text="  NG料盘  :"/>  
+	  <Control name="tabPage2" text="  上下料模块1  "/>
+	  <Control name="tabPage3" text="  上下料模块2  "/>
+
+	  <Control name="label23" text="视觉检测位置"/>
+	  <Control name="btn_tray_vspos_get" text="学习"/>
+	  <Control name="btn_tray_vspos_goto" text="定位"/>
+	  <Control name="btn_tray_vspos_gocenter" text="对中"/>
+	  <Control name="btn_tray_get" text="学习"/>
+	  <Control name="btn_tray_goto" text="定位"/>
+	  <Control name="btn_dwup" text="下降"/>
+	  <Control name="btn_Vsgopos" text="视觉定位"/>
+	  <Control name="btn_VsCalc" text="视觉计算"/>
+	  <Control name="btn_tray_make_array" text="生成阵列"/>
+	  <Control name="btn_tray_copy" text="位置复制"/>  
+	  <Control name="btn_tray_save" text="保存"/>
+	  <Control name="groupBox1" text="仓储参数"/>
+  	  <Control name="tabPage4" text="参数1"/>
+	  <Control name="tabPage5" text="参数2"/>
+	  <Control name="groupBox6" text="料盘扫二维码参数"/>   
+	  <Control name="lb_x" text="第一层Z高度:"/>
+	  <Control name="label1" text="层间高度:"/>
+	  <Control name="label2" text="取放料脱离高度:"/>
+	  <Control name="label3" text="仓储取料X位置:"/>
+	  <Control name="label13" text="放料开气缸X位置:"/>
+	  <Control name="label4" text="安区X位置:"/>
+	  <Control name="label19" text="检测高度差:"/>
+	  <Control name="label5" text="仓储层数:"/>
+	  <Control name="btn_traybox_save" text="保存"/>
+	  <Control name="label29" text="上下料1料盘X"/>
+	  <Control name="label33" text="上下料2料盘X"/>
+	  <Control name="label28" text="X1:"/>
+	  <Control name="label30" text="Y1:"/>  
+	  <Control name="label31" text="X2:"/>
+	  <Control name="label32" text="Y2:"/>
+  	  <Control name="btn_traybox_save2" text="保存"/>
+	  <Control name="tp_gz1" text="▶测试模块[1]  :"/>
+	  <Control name="tp_gz2" text="  ◀测试模块[2]  :"/>  
+	  <Control name="btn_test_pos" text="测试位"/>
+	  <Control name="btn_feed_pos" text="上料位"/>
+	  <Control name="groupBox2" text="参数"/>
+	  <Control name="label17" text="1.工位立柱模块1拍照位置:"/>
+  	  <Control name="btn_Pos_LiZhu_goto" text="模块定位"/>
+	  <Control name="btn_Pos_LiZhu_get" text="对中学习"/>
+	  <Control name="label10" text="2.立柱坐标允许偏差:"/>  
+	  <Control name="label14" text="3.工站取料位置计算:"/>
+	  <Control name="btn_vs_calpos" text="视觉计算->"/>
+	  <Control name="label26" text="4.模块吸头测高:"/>
+	  <Control name="btn_ud1_hightest" text="模块1测高"/>
+	  <Control name="btn_ud2_hightest" text="模块2测高"/>
+	  <Control name="btn_ud_hightest" text="组合测高"/>
+	  
+	  <Control name="rbtn_campos" text="拍照位"/>
+	  <Control name="rbtn_pickpos" text="取料位"/>  
+	  <Control name="btn_cali" text="视觉矫正"/>
+	  <Control name="btn_array" text="当前位阵列"/>
+	  <Control name="btn_PosCopy" text="位置复制"/>
+	  <Control name="btn_start_test_flow" text="启动测试"/>
+	  <Control name="btn_next_flow" text="下一位置"/>
+	  <Control name="btn_save" text="保存"/>
+	  
+	  <Control name="light_btn_del" text="删除"/>
+	  <Control name="light_btn_add" text="增加"/>  
+	  <Control name="light_btn_load" text="加载"/>
+	  <Control name="light_btn_save" text="保存"/>
+	  <Control name="light_btn_stop" text="停止"/>
+	  <Control name="btn_img" text="图片"/>
+	  <Control name="btn_live" text="实况"/>
+	  <Control name="btn_triger" text="触发"/>
+	  
+	  
+	  
+	  <Control name="btn_lightgetpos" text="学习"/>
+	  <Control name="btn_lightgotopos" text="定位"/>  
+	  <Control name="btn_lightmeasure" text="测量"/>
+	  <Control name="lbl_lightres" text="测量结果"/>
+	  <Control name="lbl_lighth" text="模组厚度"/>
+	  <Control name="lbl_lighthh" text="反射面到模组底部"/>
+	  <Control name="lbl_lighttip1" text="默认位置:X1:240 Y1:43 Z2:-200"/>
+	  <Control name="lbl_lighttip2" text="注意:确认激光打到正确位置并在测量范围内进行初次点检！"/>	  
+	  <Control name="lbl_lighttip3" text="操作步骤:                                              1.定位到默认位置                                      2.测量,结果应远大于6,然后慢慢定位配合测量结果。"/>
+
+	  
+
+	</Controls>
+	<DataGridViewCells>
+      <DataGridViewCell name="Num" HeaderText="编号"/>
+      <DataGridViewCell name="Disc" HeaderText="名称"/>
+      <DataGridViewCell name="Channel" HeaderText="通道"/>
+      <DataGridViewCell name="delay" HeaderText="延迟"/>
+	  <DataGridViewCell name="编号" HeaderText="编号"/>
+      <DataGridViewCell name="chk_use" HeaderText="使用"/>
+	  
+	  	  <DataGridViewCell name="pc" HeaderText="电脑"/>
+      <DataGridViewCell name="textbox" HeaderText="工装"/>
+      <DataGridViewCell name="SN" HeaderText="序号"/>
+      <DataGridViewCell name="enable" HeaderText="使用"/>
+	</DataGridViewCells>
+  </Form>  
+	  
+  <Form> 
+    <!--统计界面-->
+	<Name>FrCount</Name>
+    <Controls>
+	  <Control name="tp_product_count" text="产能统计"></Control>
+	  <Control name="tp_soket_count" text="工装统计"></Control>  
+	  <Control name="tp_sql_data" text="数据记录"></Control>
+	  <Control name="tp_ng_count" text="NG分布"></Control>  
+	  <Control name="tp_ng" text="NG代码"></Control>
+	  <Control name="tp_test_pc" text="测试电脑"></Control>  	  
+	  <Control name="label9" text="二维码"></Control>
+	  <Control name="label16" text="NG码"></Control>  
+	  <Control name="label13" text="工站"></Control>
+	  <Control name="label15" text="电脑"></Control>  
+	  <Control name="label10" text="编号"></Control>
+	  <Control name="label14" text="工装"></Control>  
+	  <Control name="rbtn_AllProduct" text="全部"></Control>  
+	  <Control name="rbtn_NorProduct" text="正常"></Control>
+	  <Control name="rbtn_RetProduct" text="复测"></Control> 
+	  <Control name="btn_select" text="查询"></Control>
+	  <Control name="btn_clear" text="清除"></Control> 
+	  
+	  <Control name="btn_SaveCsv" text="生成CSV报表"></Control>
+	  <Control name="tb_zonename0" text="分区1"></Control>  
+	  <Control name="tb_zonename1" text="分区2"></Control>  
+	  <Control name="tb_zonename2" text="分区3"></Control>
+	  <Control name="tb_zonename3" text="分区4"></Control> 
+	  <Control name="tb_zonename4" text="分区5"></Control>
+	  <Control name="tb_zonename5" text="分区6"></Control> 
+	  <Control name="rbtn_normal" text="-正常-"></Control>  
+	  <Control name="rbtn_retest" text="-复测-"></Control>
+	  <Control name="btn_ngcode_import" text="导入"></Control> 
+	  <Control name="btn_ngcode_load" text="加载"></Control>
+	  <Control name="btn_ngcode_save" text="保存"></Control> 
+	  <Control name="btn_vnc_captrue" text="截屏"></Control>
+	  <Control name="ckb_rb_ctrl" text="控制"></Control> 
+	 </Controls> 
+  </Form>   
+	
+
+  <Form> 
+    <!--统计界面-->
+	<Name>warning</Name>
+    <Controls>
+	  <Control name="label8" text="正常颜色"></Control>
+	  <Control name="label5" text="异常颜色"></Control>  
+	  <Control name="label1" text="无料颜色"></Control>
+	  <Control name="label2" text="待测颜色"></Control>  
+	  <Control name="label3" text="OK料颜色"></Control>
+	  <Control name="label4" text="NG料颜色"></Control>  	  
+	  <Control name="btn_currun" text="更新状态执行"></Control>
+	  <Control name="btn_Allun" text="置空"></Control>  
+	  <Control name="btn_recovery" text="恢复"></Control>
+	 </Controls> 
+  </Form>   
+	  
+	  
+	  
+	  
+	  
+</Softimite>

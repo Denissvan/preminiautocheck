@@ -1,0 +1,1 @@
+{"S":5,"F":1,"Type":"S5F1","Text":"{Alid:5,IsSetAlarm:true}","FileName":"Json测试2.sml","Desc":"","CommandInfos":[],"SelectVariable":null,"TriggerInterval":0,"TriggerIndex":0,"CompareIndex":0,"CompareValue":null,"TriggerType":null,"IsReplyExpected":true}

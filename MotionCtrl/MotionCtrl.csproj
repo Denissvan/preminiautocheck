@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{85FF29BC-2148-4601-9CCA-6FCF115129F4}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MotionCtrl</RootNamespace>
+    <AssemblyName>MotionCtrl</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;LEADSHINE,ZMOTION,ORIENTALMOTOR</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE;LEADSHINE,ZMOTION,ORIENTALMOTOR</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;LEADSHINE,ZMOTION,ORIENTALMOTOR</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE;LEADSHINE,ZMOTION,ORIENTALMOTOR</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;LEADSHINE,ZMOTION,ORIENTALMOTOR</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;LEADSHINE,ZMOTION,ORIENTALMOTOR</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevReport">
+      <HintPath>..\UI\bin\x64\DevReport.dll</HintPath>
+    </Reference>
+    <Reference Include="NModbus4">
+      <HintPath>dll\NModbus4.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Win32Lib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Win32Lib\bin\Debug\Win32Lib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Compment\IOTable.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Compment\IOTable.Designer.cs">
+      <DependentUpon>IOTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Compment\CylinderTable.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Compment\CylinderTable.Designer.cs">
+      <DependentUpon>CylinderTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Compment\CardTable.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Compment\CardTable.Designer.cs">
+      <DependentUpon>CardTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class\CARD.cs" />
+    <Compile Include="Class\AXIS.cs" />
+    <Compile Include="Compment\AxisConfig.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Compment\AxisConfig.Designer.cs">
+      <DependentUpon>AxisConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Compment\AxisTable.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Compment\AxisTable.Designer.cs">
+      <DependentUpon>AxisTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class\GPIO.cs" />
+    <Compile Include="Class\IniFile.cs" />
+    <Compile Include="Class\IOC0640.cs" />
+    <Compile Include="Compment\IOPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Compment\IOPanel.Designer.cs">
+      <DependentUpon>IOPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class\LTDMC.cs" />
+    <Compile Include="Class\MSG.cs" />
+    <Compile Include="Class\MyType.cs" />
+    <Compile Include="Compment\pad.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Compment\pad.Designer.cs">
+      <DependentUpon>pad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class\ADZMotor.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Compment\User.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Compment\User.Designer.cs">
+      <DependentUpon>User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class\Utility.cs" />
+    <Compile Include="Class\VAR.cs" />
+    <Compile Include="Class\CONST.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Compment\XYZU.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Compment\XYZU.Designer.cs">
+      <DependentUpon>XYZU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class\Zmcaux.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Compment\AxisConfig.resx">
+      <DependentUpon>AxisConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Compment\IOTable.resx">
+      <DependentUpon>IOTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Compment\CylinderTable.resx">
+      <DependentUpon>CylinderTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Compment\CardTable.resx">
+      <DependentUpon>CardTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Compment\AxisTable.resx">
+      <DependentUpon>AxisTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Compment\IOPanel.resx">
+      <DependentUpon>IOPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Compment\pad.resx">
+      <DependentUpon>pad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Compment\User.resx">
+      <DependentUpon>User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Compment\XYZU.resx">
+      <DependentUpon>XYZU.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,25 @@
+2022-09-27 19:08:23.9842 [Secs.App.PC.MainWindow+<>c.<OnSourceInitialized>b__4_0] : {"TypeId":3,"Infos":[{"Id":0,"Value":"D:\\Pre-Mini 2022.5.20传统回检\\Pre-Mini 2022.5.20传统回检\\UI\\bin\\product"}]}
+2022-09-27 19:08:24.0235 [Secs.App.PC.MainWindow+<>c.<OnSourceInitialized>b__4_0] : {"TypeId":0,"Infos":[{"Id":1,"Value":"6"}]}
+2022-09-27 19:08:24.0235 [Secs.App.PC.MainWindow+<>c.<OnSourceInitialized>b__4_0] : {"TypeId":2,"Infos":[{"Id":1,"Value":null}]}
+2022-09-27 19:08:42.5559 [Secs.App.PC.MainWindow+<>c.<OnSourceInitialized>b__4_0] : {"TypeId":0,"Infos":[{"Id":1,"Value":"0"}]}
+2022-09-27 19:08:42.5639 [Secs.App.PC.MainWindow+<>c.<OnSourceInitialized>b__4_0] : {"TypeId":2,"Infos":[{"Id":1,"Value":null}]}
+2022-09-27 19:08:42.5639 [Secs.App.PC.MainWindow+<>c.<OnSourceInitialized>b__4_0] : {"TypeId":3,"Infos":[{"Id":0,"Value":"D:\\Pre-Mini 2022.5.20传统回检\\Pre-Mini 2022.5.20传统回检\\UI\\bin\\product"}]}
+2022-09-27 19:08:42.5639 [Secs.App.PC.MainWindow+<>c.<OnSourceInitialized>b__4_0] : {"TypeId":0,"Infos":[{"Id":1,"Value":"6"}]}
+2022-09-27 19:08:42.5639 [Secs.App.PC.MainWindow+<>c.<OnSourceInitialized>b__4_0] : {"TypeId":2,"Infos":[{"Id":1,"Value":null}]}
+2022-09-27 19:08:49.1215 [Secs.App.PC.MainWindow+<>c.<OnSourceInitialized>b__4_0] : {"TypeId":0,"Infos":[{"Id":2,"Value":"GUCCL"}]}
+2022-09-27 19:08:49.1215 [Secs.App.PC.MainWindow+<>c.<OnSourceInitialized>b__4_0] : {"TypeId":2,"Infos":[{"Id":2,"Value":null}]}
+2022-09-27 19:08:52.0402 [Secs.App.PC.MainWindow+<>c.<OnSourceInitialized>b__4_0] : {"TypeId":0,"Infos":[{"Id":3,"Value":"708"}]}
+2022-09-27 19:08:52.0402 [Secs.App.PC.MainWindow+<>c.<OnSourceInitialized>b__4_0] : {"TypeId":0,"Infos":[{"Id":4,"Value":"639"}]}
+2022-09-27 19:08:52.0402 [Secs.App.PC.MainWindow+<>c.<OnSourceInitialized>b__4_0] : {"TypeId":0,"Infos":[{"Id":5,"Value":"83"}]}
+2022-09-27 19:08:52.0402 [Secs.App.PC.MainWindow+<>c.<OnSourceInitialized>b__4_0] : {"TypeId":0,"Infos":[{"Id":6,"Value":"14"}]}
+2022-09-27 19:08:52.0402 [Secs.App.PC.MainWindow+<>c.<OnSourceInitialized>b__4_0] : {"TypeId":2,"Infos":[{"Id":2,"Value":null}]}
+2022-09-27 19:11:34.2126 [Secs.App.PC.MainWindow+<>c.<OnSourceInitialized>b__4_0] : {"TypeId":0,"Infos":[{"Id":1,"Value":"4"}]}
+2022-09-27 19:11:34.2126 [Secs.App.PC.MainWindow+<>c.<OnSourceInitialized>b__4_0] : {"TypeId":2,"Infos":[{"Id":1,"Value":null}]}
+2022-09-27 21:52:13.4021 [Secs.App.PC.MainWindow+<>c.<OnSourceInitialized>b__4_0] : {"TypeId":3,"Infos":[{"Id":0,"Value":"D:\\Pre-Mini 2022.5.20传统回检\\Pre-Mini 2022.5.20传统回检\\UI\\bin\\product"}]}
+2022-09-27 21:52:13.4402 [Secs.App.PC.MainWindow+<>c.<OnSourceInitialized>b__4_0] : {"TypeId":0,"Infos":[{"Id":1,"Value":"6"}]}
+2022-09-27 21:52:13.4402 [Secs.App.PC.MainWindow+<>c.<OnSourceInitialized>b__4_0] : {"TypeId":2,"Infos":[{"Id":1,"Value":null}]}
+2022-09-27 21:52:35.3369 [Secs.App.PC.MainWindow+<>c.<OnSourceInitialized>b__4_0] : {"TypeId":0,"Infos":[{"Id":1,"Value":"0"}]}
+2022-09-27 21:52:35.3369 [Secs.App.PC.MainWindow+<>c.<OnSourceInitialized>b__4_0] : {"TypeId":2,"Infos":[{"Id":1,"Value":null}]}
+2022-09-27 21:52:35.3448 [Secs.App.PC.MainWindow+<>c.<OnSourceInitialized>b__4_0] : {"TypeId":3,"Infos":[{"Id":0,"Value":"D:\\Pre-Mini 2022.5.20传统回检\\Pre-Mini 2022.5.20传统回检\\UI\\bin\\product"}]}
+2022-09-27 21:52:35.3448 [Secs.App.PC.MainWindow+<>c.<OnSourceInitialized>b__4_0] : {"TypeId":0,"Infos":[{"Id":1,"Value":"6"}]}
+2022-09-27 21:52:35.3558 [Secs.App.PC.MainWindow+<>c.<OnSourceInitialized>b__4_0] : {"TypeId":2,"Infos":[{"Id":1,"Value":null}]}

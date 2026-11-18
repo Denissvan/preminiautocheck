@@ -1,0 +1,1 @@
+{"S":1,"F":4,"Type":"S1F4","Text":"<L[2]\r\n    <F4[1] 0.11>\r\n    <Boolean[1] True>\r\n>\r\n.","FileName":"测试1.sml","Desc":"这是测试1","CommandInfos":[],"SelectVariable":null,"TriggerInterval":5,"TriggerIndex":0,"CompareIndex":0,"CompareValue":null,"TriggerType":"s1f3","IsReplyExpected":false}

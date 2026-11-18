@@ -1,0 +1,2 @@
+2025-02-12 10:03:17.7997 [Secs.App.PC.ViewModels.OverViewModel+<MqttConnect>d__107.MoveNext] : mqtt¡¨Ω” ß∞‹£°
+2025-02-12 10:03:17.8232 [Secs.App.PC.ViewModels.OverViewModel.<get_SourceOnCommand] : mqtt∂œø™£°

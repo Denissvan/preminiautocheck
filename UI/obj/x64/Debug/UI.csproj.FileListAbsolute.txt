@@ -1,0 +1,379 @@
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\bin\x64\WLTmini.exe.config
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\Interop.RDPCOMAPILib.dll
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\AxInterop.RDPCOMAPILib.dll
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.csproj.ResolveComReference.cache
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\bin\x64\WLTmini.exe
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\bin\x64\WLTmini.pdb
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\bin\x64\MotionCtrl.dll
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\bin\x64\System.Data.SQLite.dll
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\bin\x64\VncSharp.dll
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\bin\x64\NModbus4.dll
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\bin\x64\MotionCtrl.pdb
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\bin\x64\NModbus4.xml
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\bin\x64\Interop.RDPCOMAPILib.dll
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\bin\x64\AxInterop.RDPCOMAPILib.dll
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.Compment.AffineCail.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.Compment.AZD.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.Compment.CameraList.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.CogBlockEidt.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.CogDisplayer.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.DownLoad.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.Compment.NpointCail.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.Compment.RotAndFly.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.NGcode.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.SQLSelector.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.Compment.TrayCfg.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.WsModuelDef.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.Compment.LightBoxDef.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\RowMergeView.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.traybox.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.Compment.Turnplate.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.UpLoad.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.Station.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.WorkStation.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.tray.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.Compment.XtOfsAdj.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.FrMain.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.FrCount.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.FrSys.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.FrProduct.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.FrRst.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.FrRun.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.FrUser.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.warning.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.Properties.Resources.resources
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\WLTmini.exe
+C:\Users\test\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\WLTmini.pdb
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\bin\x64\WLTmini.exe.config
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\Interop.RDPCOMAPILib.dll
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\AxInterop.RDPCOMAPILib.dll
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.csproj.ResolveComReference.cache
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\WLTmini.exe
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\WLTmini.pdb
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\bin\x64\WLTmini.exe
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\bin\x64\WLTmini.pdb
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\bin\x64\MotionCtrl.dll
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\bin\x64\System.Data.SQLite.dll
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\bin\x64\VncSharp.dll
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\bin\x64\NModbus4.dll
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\bin\x64\MotionCtrl.pdb
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\bin\x64\NModbus4.xml
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\bin\x64\Interop.RDPCOMAPILib.dll
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\bin\x64\AxInterop.RDPCOMAPILib.dll
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.Compment.AffineCail.resources
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.Compment.AZD.resources
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.Compment.CameraList.resources
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.CogBlockEidt.resources
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.CogDisplayer.resources
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.DownLoad.resources
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.Compment.NpointCail.resources
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.Compment.RotAndFly.resources
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.NGcode.resources
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.SQLSelector.resources
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.Compment.TrayCfg.resources
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.WsModuelDef.resources
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.Compment.LightBoxDef.resources
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\RowMergeView.resources
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.traybox.resources
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.Compment.Turnplate.resources
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.UpLoad.resources
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.Station.resources
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.WorkStation.resources
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.tray.resources
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.Compment.XtOfsAdj.resources
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.FrMain.resources
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.FrCount.resources
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.FrSys.resources
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.FrProduct.resources
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.FrRst.resources
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.FrRun.resources
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.FrUser.resources
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.warning.resources
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.Properties.Resources.resources
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\George Lin\Desktop\WLTmini_Cog20181124\UI\obj\x64\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\bin\x64\WLTmini.exe.config
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\obj\x64\Debug\Interop.RDPCOMAPILib.dll
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\obj\x64\Debug\AxInterop.RDPCOMAPILib.dll
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\obj\x64\Debug\UI.csproj.ResolveComReference.cache
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\obj\x64\Debug\WLTmini.exe
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\obj\x64\Debug\WLTmini.pdb
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\bin\x64\WLTmini.exe
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\bin\x64\WLTmini.pdb
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\bin\x64\MotionCtrl.dll
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\bin\x64\System.Data.SQLite.dll
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\bin\x64\VncSharp.dll
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\bin\x64\NModbus4.dll
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\bin\x64\MotionCtrl.pdb
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\bin\x64\NModbus4.xml
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\bin\x64\Interop.RDPCOMAPILib.dll
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\bin\x64\AxInterop.RDPCOMAPILib.dll
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\obj\x64\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\obj\x64\Debug\UI.Compment.AffineCail.resources
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\obj\x64\Debug\UI.Compment.AZD.resources
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\obj\x64\Debug\UI.Compment.CameraList.resources
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\obj\x64\Debug\UI.CogBlockEidt.resources
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\obj\x64\Debug\UI.CogDisplayer.resources
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\obj\x64\Debug\UI.DownLoad.resources
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\obj\x64\Debug\UI.Compment.NpointCail.resources
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\obj\x64\Debug\UI.Compment.RotAndFly.resources
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\obj\x64\Debug\UI.NGcode.resources
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\obj\x64\Debug\UI.SQLSelector.resources
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\obj\x64\Debug\UI.Compment.TrayCfg.resources
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\obj\x64\Debug\UI.WsModuelDef.resources
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\obj\x64\Debug\UI.Compment.LightBoxDef.resources
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\obj\x64\Debug\RowMergeView.resources
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\obj\x64\Debug\UI.traybox.resources
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\obj\x64\Debug\UI.Compment.Turnplate.resources
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\obj\x64\Debug\UI.UpLoad.resources
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\obj\x64\Debug\UI.Station.resources
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\obj\x64\Debug\UI.WorkStation.resources
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\obj\x64\Debug\UI.tray.resources
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\obj\x64\Debug\UI.Compment.XtOfsAdj.resources
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\obj\x64\Debug\UI.FrMain.resources
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\obj\x64\Debug\UI.FrCount.resources
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\obj\x64\Debug\UI.FrSys.resources
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\obj\x64\Debug\UI.FrProduct.resources
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\obj\x64\Debug\UI.FrRst.resources
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\obj\x64\Debug\UI.FrRun.resources
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\obj\x64\Debug\UI.FrUser.resources
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\obj\x64\Debug\UI.warning.resources
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\obj\x64\Debug\UI.Properties.Resources.resources
+C:\Users\test\Desktop\WLTmini_Cog20181204\UI\obj\x64\Debug\UI.csproj.GenerateResource.Cache
+D:\WLTmini_Cog20181211\UI\bin\x64\WLTmini.exe.config
+D:\WLTmini_Cog20181211\UI\obj\x64\Debug\Interop.RDPCOMAPILib.dll
+D:\WLTmini_Cog20181211\UI\obj\x64\Debug\AxInterop.RDPCOMAPILib.dll
+D:\WLTmini_Cog20181211\UI\obj\x64\Debug\UI.csproj.ResolveComReference.cache
+D:\WLTmini_Cog20181211\UI\obj\x64\Debug\WLTmini.exe
+D:\WLTmini_Cog20181211\UI\obj\x64\Debug\WLTmini.pdb
+D:\WLTmini_Cog20181211\UI\bin\x64\WLTmini.exe
+D:\WLTmini_Cog20181211\UI\bin\x64\WLTmini.pdb
+D:\WLTmini_Cog20181211\UI\bin\x64\MotionCtrl.dll
+D:\WLTmini_Cog20181211\UI\bin\x64\System.Data.SQLite.dll
+D:\WLTmini_Cog20181211\UI\bin\x64\VncSharp.dll
+D:\WLTmini_Cog20181211\UI\bin\x64\NModbus4.dll
+D:\WLTmini_Cog20181211\UI\bin\x64\MotionCtrl.pdb
+D:\WLTmini_Cog20181211\UI\bin\x64\NModbus4.xml
+D:\WLTmini_Cog20181211\UI\bin\x64\Interop.RDPCOMAPILib.dll
+D:\WLTmini_Cog20181211\UI\bin\x64\AxInterop.RDPCOMAPILib.dll
+D:\WLTmini_Cog20181211\UI\obj\x64\Debug\UI.csprojResolveAssemblyReference.cache
+D:\WLTmini_Cog20181211\UI\obj\x64\Debug\UI.Compment.AffineCail.resources
+D:\WLTmini_Cog20181211\UI\obj\x64\Debug\UI.Compment.AZD.resources
+D:\WLTmini_Cog20181211\UI\obj\x64\Debug\UI.Compment.CameraList.resources
+D:\WLTmini_Cog20181211\UI\obj\x64\Debug\UI.CogBlockEidt.resources
+D:\WLTmini_Cog20181211\UI\obj\x64\Debug\UI.CogDisplayer.resources
+D:\WLTmini_Cog20181211\UI\obj\x64\Debug\UI.DownLoad.resources
+D:\WLTmini_Cog20181211\UI\obj\x64\Debug\UI.Compment.NpointCail.resources
+D:\WLTmini_Cog20181211\UI\obj\x64\Debug\UI.Compment.RotAndFly.resources
+D:\WLTmini_Cog20181211\UI\obj\x64\Debug\UI.NGcode.resources
+D:\WLTmini_Cog20181211\UI\obj\x64\Debug\UI.SQLSelector.resources
+D:\WLTmini_Cog20181211\UI\obj\x64\Debug\UI.Compment.TrayCfg.resources
+D:\WLTmini_Cog20181211\UI\obj\x64\Debug\UI.WsModuelDef.resources
+D:\WLTmini_Cog20181211\UI\obj\x64\Debug\UI.Compment.LightBoxDef.resources
+D:\WLTmini_Cog20181211\UI\obj\x64\Debug\RowMergeView.resources
+D:\WLTmini_Cog20181211\UI\obj\x64\Debug\UI.traybox.resources
+D:\WLTmini_Cog20181211\UI\obj\x64\Debug\UI.Compment.Turnplate.resources
+D:\WLTmini_Cog20181211\UI\obj\x64\Debug\UI.UpLoad.resources
+D:\WLTmini_Cog20181211\UI\obj\x64\Debug\UI.Station.resources
+D:\WLTmini_Cog20181211\UI\obj\x64\Debug\UI.WorkStation.resources
+D:\WLTmini_Cog20181211\UI\obj\x64\Debug\UI.tray.resources
+D:\WLTmini_Cog20181211\UI\obj\x64\Debug\UI.Compment.XtOfsAdj.resources
+D:\WLTmini_Cog20181211\UI\obj\x64\Debug\UI.FrMain.resources
+D:\WLTmini_Cog20181211\UI\obj\x64\Debug\UI.FrCount.resources
+D:\WLTmini_Cog20181211\UI\obj\x64\Debug\UI.FrSys.resources
+D:\WLTmini_Cog20181211\UI\obj\x64\Debug\UI.FrProduct.resources
+D:\WLTmini_Cog20181211\UI\obj\x64\Debug\UI.FrRst.resources
+D:\WLTmini_Cog20181211\UI\obj\x64\Debug\UI.FrRun.resources
+D:\WLTmini_Cog20181211\UI\obj\x64\Debug\UI.FrUser.resources
+D:\WLTmini_Cog20181211\UI\obj\x64\Debug\UI.warning.resources
+D:\WLTmini_Cog20181211\UI\obj\x64\Debug\UI.Properties.Resources.resources
+D:\WLTmini_Cog20181211\UI\obj\x64\Debug\UI.csproj.GenerateResource.Cache
+D:\WLTmini_Cog20181212\UI\bin\x64\WLTmini.exe.config
+D:\WLTmini_Cog20181212\UI\obj\x64\Debug\Interop.RDPCOMAPILib.dll
+D:\WLTmini_Cog20181212\UI\obj\x64\Debug\AxInterop.RDPCOMAPILib.dll
+D:\WLTmini_Cog20181212\UI\obj\x64\Debug\UI.csproj.ResolveComReference.cache
+D:\WLTmini_Cog20181212\UI\obj\x64\Debug\WLTmini.exe
+D:\WLTmini_Cog20181212\UI\obj\x64\Debug\WLTmini.pdb
+D:\WLTmini_Cog20181212\UI\bin\x64\WLTmini.exe
+D:\WLTmini_Cog20181212\UI\bin\x64\WLTmini.pdb
+D:\WLTmini_Cog20181212\UI\bin\x64\MotionCtrl.dll
+D:\WLTmini_Cog20181212\UI\bin\x64\System.Data.SQLite.dll
+D:\WLTmini_Cog20181212\UI\bin\x64\VncSharp.dll
+D:\WLTmini_Cog20181212\UI\bin\x64\NModbus4.dll
+D:\WLTmini_Cog20181212\UI\bin\x64\MotionCtrl.pdb
+D:\WLTmini_Cog20181212\UI\bin\x64\NModbus4.xml
+D:\WLTmini_Cog20181212\UI\bin\x64\Interop.RDPCOMAPILib.dll
+D:\WLTmini_Cog20181212\UI\bin\x64\AxInterop.RDPCOMAPILib.dll
+D:\WLTmini_Cog20181212\UI\obj\x64\Debug\UI.csprojResolveAssemblyReference.cache
+D:\WLTmini_Cog20181212\UI\obj\x64\Debug\UI.Compment.AffineCail.resources
+D:\WLTmini_Cog20181212\UI\obj\x64\Debug\UI.Compment.AZD.resources
+D:\WLTmini_Cog20181212\UI\obj\x64\Debug\UI.Compment.CameraList.resources
+D:\WLTmini_Cog20181212\UI\obj\x64\Debug\UI.CogBlockEidt.resources
+D:\WLTmini_Cog20181212\UI\obj\x64\Debug\UI.CogDisplayer.resources
+D:\WLTmini_Cog20181212\UI\obj\x64\Debug\UI.DownLoad.resources
+D:\WLTmini_Cog20181212\UI\obj\x64\Debug\UI.Compment.NpointCail.resources
+D:\WLTmini_Cog20181212\UI\obj\x64\Debug\UI.Compment.RotAndFly.resources
+D:\WLTmini_Cog20181212\UI\obj\x64\Debug\UI.NGcode.resources
+D:\WLTmini_Cog20181212\UI\obj\x64\Debug\UI.SQLSelector.resources
+D:\WLTmini_Cog20181212\UI\obj\x64\Debug\UI.Compment.TrayCfg.resources
+D:\WLTmini_Cog20181212\UI\obj\x64\Debug\UI.WsModuelDef.resources
+D:\WLTmini_Cog20181212\UI\obj\x64\Debug\UI.Compment.LightBoxDef.resources
+D:\WLTmini_Cog20181212\UI\obj\x64\Debug\RowMergeView.resources
+D:\WLTmini_Cog20181212\UI\obj\x64\Debug\UI.traybox.resources
+D:\WLTmini_Cog20181212\UI\obj\x64\Debug\UI.Compment.Turnplate.resources
+D:\WLTmini_Cog20181212\UI\obj\x64\Debug\UI.UpLoad.resources
+D:\WLTmini_Cog20181212\UI\obj\x64\Debug\UI.Station.resources
+D:\WLTmini_Cog20181212\UI\obj\x64\Debug\UI.WorkStation.resources
+D:\WLTmini_Cog20181212\UI\obj\x64\Debug\UI.tray.resources
+D:\WLTmini_Cog20181212\UI\obj\x64\Debug\UI.Compment.XtOfsAdj.resources
+D:\WLTmini_Cog20181212\UI\obj\x64\Debug\UI.FrMain.resources
+D:\WLTmini_Cog20181212\UI\obj\x64\Debug\UI.FrCount.resources
+D:\WLTmini_Cog20181212\UI\obj\x64\Debug\UI.FrSys.resources
+D:\WLTmini_Cog20181212\UI\obj\x64\Debug\UI.FrProduct.resources
+D:\WLTmini_Cog20181212\UI\obj\x64\Debug\UI.FrRst.resources
+D:\WLTmini_Cog20181212\UI\obj\x64\Debug\UI.FrRun.resources
+D:\WLTmini_Cog20181212\UI\obj\x64\Debug\UI.FrUser.resources
+D:\WLTmini_Cog20181212\UI\obj\x64\Debug\UI.warning.resources
+D:\WLTmini_Cog20181212\UI\obj\x64\Debug\UI.Properties.Resources.resources
+D:\WLTmini_Cog20181212\UI\obj\x64\Debug\UI.csproj.GenerateResource.Cache
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\bin\x64\LAT.exe.config
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\bin\x64\LAT.exe
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\bin\x64\LAT.pdb
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\bin\x64\MotionCtrl.dll
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\bin\x64\SocketHelper.dll
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\bin\x64\VncSharp.dll
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\bin\x64\NModbus4.dll
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\bin\x64\MotionCtrl.pdb
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\bin\x64\SocketHelper.pdb
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\bin\x64\NModbus4.xml
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\bin\x64\Interop.RDPCOMAPILib.dll
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\bin\x64\AxInterop.RDPCOMAPILib.dll
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x64\Debug\UI.csprojResolveAssemblyReference.cache
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x64\Debug\Interop.RDPCOMAPILib.dll
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x64\Debug\AxInterop.RDPCOMAPILib.dll
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x64\Debug\UI.csproj.ResolveComReference.cache
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x64\Debug\UI.Compment.AffineCail.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x64\Debug\UI.Compment.CameraList.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x64\Debug\UI.CogBlockEidt.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x64\Debug\UI.CogDisplayer.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x64\Debug\UI.Compment.Communication_PC.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x64\Debug\UI.Compment.MaskDisplay.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x64\Debug\UI.Compment.NpointCail.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x64\Debug\UI.Compment.PMAlignEdit.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x64\Debug\ParamSet.PosGet.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x64\Debug\UI.Compment.RotAndFly.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x64\Debug\UI.Compment.TaskNpoint.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x64\Debug\UI.Compment.Test_WorkStation.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x64\Debug\UI.Compment.TrayCfg.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x64\Debug\UI.WsModuelDef.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x64\Debug\RowMergeView.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x64\Debug\UI.traybox.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x64\Debug\UI.UpLoad.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x64\Debug\UI.WorkStation.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x64\Debug\UI.tray.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x64\Debug\UI.Compment.XtOfsAdj.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x64\Debug\UI.FrMain.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x64\Debug\UI.FrSys.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x64\Debug\UI.FrProduct.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x64\Debug\UI.FrRst.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x64\Debug\UI.FrRun.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x64\Debug\UI.FrUser.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x64\Debug\UI.warning.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x64\Debug\UI.Properties.Resources.resources
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x64\Debug\UI.csproj.GenerateResource.Cache
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x64\Debug\LAT.exe
+E:\LAT\LAT1.5  07.29.1\LAT1.5  07.26\UI\obj\x64\Debug\LAT.pdb
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\bin\x64\LAT.exe.config
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\obj\x64\Debug\Interop.RDPCOMAPILib.dll
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\obj\x64\Debug\AxInterop.RDPCOMAPILib.dll
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\obj\x64\Debug\UI.csproj.ResolveComReference.cache
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\obj\x64\Debug\LAT.exe
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\obj\x64\Debug\LAT.pdb
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\bin\x64\LAT.exe
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\bin\x64\LAT.pdb
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\bin\x64\MotionCtrl.dll
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\bin\x64\SocketHelper.dll
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\bin\x64\VncSharp.dll
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\bin\x64\NModbus4.dll
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\bin\x64\MotionCtrl.pdb
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\bin\x64\SocketHelper.pdb
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\bin\x64\NModbus4.xml
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\bin\x64\Interop.RDPCOMAPILib.dll
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\bin\x64\AxInterop.RDPCOMAPILib.dll
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\obj\x64\Debug\UI.csprojResolveAssemblyReference.cache
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\obj\x64\Debug\UI.Compment.AffineCail.resources
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\obj\x64\Debug\UI.Compment.CameraList.resources
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\obj\x64\Debug\UI.CogBlockEidt.resources
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\obj\x64\Debug\UI.CogDisplayer.resources
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\obj\x64\Debug\UI.Compment.Communication_PC.resources
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\obj\x64\Debug\UI.Compment.MaskDisplay.resources
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\obj\x64\Debug\UI.Compment.NpointCail.resources
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\obj\x64\Debug\UI.Compment.PMAlignEdit.resources
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\obj\x64\Debug\ParamSet.PosGet.resources
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\obj\x64\Debug\UI.Compment.RotAndFly.resources
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\obj\x64\Debug\UI.Compment.TaskNpoint.resources
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\obj\x64\Debug\UI.Compment.Test_WorkStation.resources
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\obj\x64\Debug\UI.Compment.TrayCfg.resources
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\obj\x64\Debug\UI.WsModuelDef.resources
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\obj\x64\Debug\RowMergeView.resources
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\obj\x64\Debug\UI.traybox.resources
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\obj\x64\Debug\UI.UpLoad.resources
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\obj\x64\Debug\UI.WorkStation.resources
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\obj\x64\Debug\UI.tray.resources
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\obj\x64\Debug\UI.Compment.XtOfsAdj.resources
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\obj\x64\Debug\UI.FrMain.resources
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\obj\x64\Debug\UI.FrSys.resources
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\obj\x64\Debug\UI.FrProduct.resources
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\obj\x64\Debug\UI.FrRst.resources
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\obj\x64\Debug\UI.FrRun.resources
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\obj\x64\Debug\UI.FrUser.resources
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\obj\x64\Debug\UI.warning.resources
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\obj\x64\Debug\UI.Properties.Resources.resources
+E:\LAT\LAT1.5  07.29.2\LAT1.5  07.26\UI\obj\x64\Debug\UI.csproj.GenerateResource.Cache
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\bin\x64\LAT.exe.config
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\obj\x64\Debug\Interop.RDPCOMAPILib.dll
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\obj\x64\Debug\AxInterop.RDPCOMAPILib.dll
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\obj\x64\Debug\UI.csproj.ResolveComReference.cache
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\obj\x64\Debug\LAT.exe
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\obj\x64\Debug\LAT.pdb
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\bin\x64\LAT.exe
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\bin\x64\LAT.pdb
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\bin\x64\MotionCtrl.dll
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\bin\x64\VncSharp.dll
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\bin\x64\NModbus4.dll
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\bin\x64\MotionCtrl.pdb
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\bin\x64\NModbus4.xml
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\bin\x64\Interop.RDPCOMAPILib.dll
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\bin\x64\AxInterop.RDPCOMAPILib.dll
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\obj\x64\Debug\UI.csprojResolveAssemblyReference.cache
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\obj\x64\Debug\UI.Compment.AffineCail.resources
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\obj\x64\Debug\UI.Compment.CameraList.resources
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\obj\x64\Debug\UI.CogBlockEidt.resources
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\obj\x64\Debug\UI.CogDisplayer.resources
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\obj\x64\Debug\UI.Compment.Communication_PC.resources
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\obj\x64\Debug\UI.Compment.MaskDisplay.resources
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\obj\x64\Debug\UI.Compment.NpointCail.resources
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\obj\x64\Debug\UI.Compment.PMAlignEdit.resources
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\obj\x64\Debug\ParamSet.PosGet.resources
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\obj\x64\Debug\UI.Compment.RotAndFly.resources
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\obj\x64\Debug\UI.Compment.TaskNpoint.resources
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\obj\x64\Debug\UI.Compment.Test_WorkStation.resources
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\obj\x64\Debug\UI.Compment.TrayCfg.resources
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\obj\x64\Debug\UI.WsModuelDef.resources
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\obj\x64\Debug\RowMergeView.resources
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\obj\x64\Debug\UI.traybox.resources
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\obj\x64\Debug\UI.UpLoad.resources
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\obj\x64\Debug\UI.WorkStation.resources
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\obj\x64\Debug\UI.tray.resources
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\obj\x64\Debug\UI.Compment.XtOfsAdj.resources
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\obj\x64\Debug\UI.FrMain.resources
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\obj\x64\Debug\UI.FrSys.resources
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\obj\x64\Debug\UI.FrProduct.resources
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\obj\x64\Debug\UI.FrRst.resources
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\obj\x64\Debug\UI.FrRun.resources
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\obj\x64\Debug\UI.FrUser.resources
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\obj\x64\Debug\UI.warning.resources
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\obj\x64\Debug\UI.Properties.Resources.resources
+E:\项目文件\2019年\镜头全检设备\LAT程序\LAT\优化版本\LAT1.5  08.3\LAT1.5  08.2\UI\obj\x64\Debug\UI.csproj.GenerateResource.Cache

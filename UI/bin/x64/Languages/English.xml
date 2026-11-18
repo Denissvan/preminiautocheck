@@ -1,0 +1,518 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Softimite Language="简体中文">
+  <Form> 
+    <!--运行界面-->
+	<Name>FrRun</Name>
+	<Controls>
+	  <Control name="btn_run" text="RUN"></Control>
+	  <Control name="btn_stop" text="STOP"></Control>
+	  <Control name="btn_pause" text="PAUSE"></Control>
+	  <Control name="btn_new_traybox_fd" text="REPLACE FEED TRAYBOX"></Control>
+	  <Control name="btn_new_traybox_ok" text="REPLACE OK TRAYBOX"></Control>
+	  <Control name="btn_new_traybox_ng" text="REPLACE NG TRAYBOX"></Control>
+	  <Control name="btn_home" text="UD_HOME"></Control>
+	  <Control name="rbtn_NormalProduct" text="NORMAL"></Control>
+	  <Control name="rbtn_RetestProduct" text="RETEST"></Control>
+	  <Control name="tp_ws_status" text="  WS Status  "></Control>
+	  <Control name="tp_lightbox" text="LightBox  "></Control>
+	  <Control name="tp_vision" text=" Mode     "></Control>
+	  <Control name="tp_count" text="Count   "></Control>
+	  <Control name="btn_tray_up" text="UP"></Control>
+	  <Control name="btn_tray_down" text="DOWN"></Control>
+	  <Control name="btn_tray_in" text="IN"></Control>
+	  <Control name="btn_tray_out" text="OUT"></Control>
+	  
+	  <Control name="label6" text="GRR Info"></Control>
+	  <Control name="label8" text="Test Times"></Control>
+	  <Control name="label9" text="Rotation Times"></Control>
+	  <Control name="label10" text="Set Test Times"></Control>
+	  <Control name="label11" text="Set Rotation Times"></Control>
+	  <Control name="lb_left_lightbox" text="Left_LBox"></Control>
+	  <Control name="lb_lightbox_left_posref" text="Pos Info"></Control>
+	  <Control name="lb_right_lightbox" text="Right LBox"></Control>
+	  <Control name="lb_lightbox_right_posref" text="Pos Info"></Control>
+	  <Control name="ckb_Check" text="Check"></Control>
+	  <Control name="ckb_not_open" text="Not open fixture"></Control>
+	  <Control name="ckb_wait_upload" text="Wait Upload"></Control>
+	  <Control name="label12" text="Check Times:"></Control>
+	  <Control name="label13" text="Production Statistics:"></Control>
+	  <Control name="label4" text="Input:"></Control>
+	  <Control name="label3" text="OK:"></Control>  
+	  <Control name="label2" text="Run:"></Control>
+	  <Control name="label15" text="Operation:"></Control>
+	  <Control name="label21" text="Wait pdct:"></Control>
+	  <Control name="label1" text="Yield:"></Control>
+	  <Control name="label7" text="UPH::"></Control>
+	  <Control name="label5" text="Stop:"></Control>
+	  <Control name="label19" text="Open ERR:"></Control>
+	  <Control name="label20" text="Draw Err:"></Control>
+	  <Control name="label17" text="Last Clear"></Control>
+	  <Control name="btn_SetZero" text="Clear"></Control>
+	  <Control name="label144" text="Upkeep"></Control>
+	  <Control name="label188" text="Fixture Upkeep"></Control>
+	  <Control name="label166" text="Equ Upkeep:"></Control>
+	  <Control name="btn_FixtrueMT" text="Clear:"></Control>
+	  <Control name="btn_EquimentMT" text="Clear:"></Control>
+	  
+      <Control name="btn_img" text="Img"/>
+	  <Control name="btn_live" text="Live"/>
+	  <Control name="btn_triger" text="Trigger"/>
+	  
+
+	</Controls>
+	<DataGridViewCells>
+
+	</DataGridViewCells>
+  </Form>
+  <Form> 
+      <!--主界面-->
+	<Name>FrMain</Name>
+	<Controls>
+	  <Control name="toolStripMenuItem1" text="Language"/>
+	  <Control name="chineseToolStripMenuItem" text="Chinese"/>
+	  <Control name="englishToolStripMenuItem" text="English"/>
+	  <Control name="lb_ver" text="NINGBO SUNNY OPTICAL"/>
+	  <Control name="lbl_update" text="UPDATE"/>
+	</Controls>
+  </Form>
+    <Form> 
+      <!--主界面-->
+	<Name>FrRst</Name>
+	<Controls>
+	  <Control name="label3" text="Left LightBox"/>
+	  <Control name="label2" text="Turn Table"/>
+	  <Control name="label4" text="Right LightBox"/>
+	  <Control name="label1" text="UDLOAD2"/>
+	  <Control name="label5" text="UDLOAD1"/>
+	  <Control name="btn_lightbox_left_home" text="HOME"/>
+	  <Control name="btn_lightbox_left_stop" text="STOP"/>
+	  <Control name="btn_zt_home" text="HOME"/>
+	  <Control name="btn_zt_stop" text="STOP"/>
+	  <Control name="btn_lightbox_right_home" text="HOME"/>
+	  <Control name="btn_lightbox_right_stop" text="STOP"/>
+	  <Control name="btn_ul_dl_home" text="HOME"/>
+	  <Control name="btn_ul_dl_stop" text="STOP"/>
+	  <Control name="btn_all_home" text="HOME"/>
+	  <Control name="btn__all_stop" text="STOP"/>
+	  
+	</Controls>
+  </Form>
+  <Form> 
+      <!--系统设置界面-->
+	<Name>FrSys</Name>
+	<Controls>
+	  <Control name="groupBox6" text="Check Back"/>
+	  <Control name="groupBox1" text="ModPasteUp(ms)"/>
+	  <Control name="groupBox5" text="GRR"/>
+	  <Control name="groupBox8" text="Down Cam Offset"/>
+	  <Control name="grb_runmode" text="RunMode"/>
+	  <Control name="grb_workmode" text="WorkMode"/>
+	  <Control name="groupBox10" text="High Transparent Film(mm)"/>
+	  <Control name="groupBox11" text="Maintain"/>
+	  <Control name="grb_barcode" text="BarcodeMode"/>
+	  <Control name="groupBox18" text="SameNgTip"/>
+	  <Control name="groupBox20" text="SamRowNgTip"/>
+	  <Control name="groupBox15" text="Count"/>
+	  <Control name="groupBox16" text="BitOpenMode"/>
+	  <Control name="groupBox7" text="Teleconverter Y1"/>
+	  <Control name="groupBox3" text="Move Safely(Turn table)"/>	  
+	  <Control name="groupBox2" text="Tray Vision"/>
+	  <Control name="grb_safe" text="Entrance Guard"/>
+	  <Control name="groupBoxbarcode" text="Barcode Check Back"/>
+	  <Control name="groupBox13" text="Light Box"/>
+	  <Control name="groupBox19" text="Data Upload"/>
+	  <Control name="groupBox4" text="Image Storage"/>
+	  <Control name="groupBox9" text="WS Vision Check"/>
+	  <Control name="groupBox12" text="WS Pick twice"/>
+	  <Control name="groupBox17" text="Pick And Place Degree"/>
+	  <Control name="groupBox14" text="StartTestMode"/>
+	  <Control name="groupBox21" text="Hall"/>
+	  <Control name="groupBox22" text="Tray Shark Check"/>
+	  <Control name="groupBox23" text="XT1 Work Firstly"/>
+	  
+	  <Control name="Chk_OpenVs" text="Check Back Open"/>
+	  <Control name="label4" text="    XY:"/>
+	  <Control name="label3" text="    R:"/>
+	  <Control name="Chk_ModPasteUp" text="ModPasteUp Open"/>
+	  <Control name="label6" text="Down Delay:"/>	  
+	  <Control name="label5" text="Up Delay:"/>
+	  <Control name="chk_grr" text="GRR Open"/>
+	  <Control name="label1" text="Test Count:"/>
+	  <Control name="label2" text="Turn Count:"/>
+	  <Control name="label7" text="XT1 Offset(mm):"/>
+	  <Control name="label12" text="XT2 Offset(mm):"/>
+	  <Control name="label8" text="XT3 Offset(mm):"/>
+	  <Control name="label11" text="XT4 Offset(mm):"/>
+	  <Control name="rbtn_run_normal" text="NORMAL"/>
+	  <Control name="rbtn_run_updw" text="Updownload"/>
+	  <Control name="rbtn_run_empty" text="Empty"/>
+	  <Control name="rbtn_twomd" text="Two Module"/>
+	  <Control name="rbtn_md1" text="Module1"/>	  
+	  <Control name="rbtn_md2" text="Module2"/>
+	  <Control name="chk_GTMCheck" text="Check"/>
+	  <Control name="label14" text="Distance:"/>
+	  <Control name="label15" text="Fixtrue:"/>
+	  <Control name="label13" text="Equipment:"/>
+	  <Control name="rbtn_upcode" text="UpCam"/>
+	  <Control name="rbtn_dwcode" text="DownCam"/>
+	  <Control name="chk_SameNGTip" text="Open"/>
+	  <Control name="label18" text="Count:"/>
+	  <Control name="chk_SameRowNGTip" text="Open"/>
+	  <Control name="label19" text="Count:"/>
+	  <Control name="rbtn_small" text="16"/>
+	  <Control name="rbtn_big" text="8"/>
+	  <Control name="rbtn_single" text="Single"/>
+	  <Control name="rbtn_double" text="Double"/>
+	  <Control name="rbtn_Lag" text="9-16 Open"/>
+	  <Control name="rbtn_Sml" text="1-8 Open"/>
+
+	  <Control name="rbtn_Y1en" text="Open Y1"/>
+	  <Control name="rbtn_Y1dis" text="Close Y1"/>
+	  <Control name="rbtn_safeon" text="Open"/>
+	  <Control name="rbtn_safeoff" text="Close"/>
+	  <Control name="rbtn_OpenVsTray" text="Open"/>	  
+	  <Control name="rbtn_CloseVsTray" text="Close"/>
+	  <Control name="chk_updown" text="Updownload "/>
+	  <Control name="chk_leftlightbox" text="Left LightBox"/>
+	  <Control name="chk_tray" text="Turn Table"/>
+	  <Control name="chk_rightlightbox" text="Right LightBox"/>
+	  <Control name="rbtn_OpenBarCamBack" text="Open"/>
+	  <Control name="rbtn_CloseBarCamBack" text="Close"/>
+	  <Control name="rbtn_lben" text="Open LightBox"/>
+	  <Control name="rbtn_lbdis" text="Close LightBox"/>
+	  <Control name="chk_UpdateSoft" text="UpdateSoft"/>
+	  <Control name="chk_UpLoadData" text="UpLoadData"/>
+	  <Control name="chk_upcam1" text="UpCam1"/>
+	  <Control name="chk_dwcam1" text="DownCam1"/>	  
+	  <Control name="chk_upcam2" text="UpCam2"/>
+	  <Control name="chk_dwcam2" text="DownCam2"/>
+	  <Control name="rbtn_OpenWsVsAddCheck" text="Open"/>
+	  <Control name="rbtn_CloseWsVsAddCheck" text="Close"/>
+	  <Control name="rbtn_OpenWsPickAgain" text="Open"/>
+	  <Control name="rbtn_CloseWsPickAgain" text="Close"/>
+	  <Control name="rbtn_open_degree" text="Open"/>
+	  <Control name="rbtn_close_degree" text="Close"/>
+	  <Control name="label17" text="Degree:"/>
+	  <Control name="rbtn_pre_turnon" text="After UD"/>
+	  <Control name="rbtn_next_turnon" text="Before Turn"/>
+	  <Control name="label16" text="Delay:"/>
+	  <Control name="rbtn_hallen" text="Open"/>
+	  <Control name="rbtn_halldis" text="Close"/>
+	  <Control name="rbtn_traybaren" text="Open"/>
+	  <Control name="rbtn_traybardis" text="Close"/>
+	  <Control name="rbtn_xt1firsten" text="Open"/>
+	  <Control name="rbtn_xt1firstdis" text="Close"/>
+	  
+	  <Control name="tp_card" text="CARD"/>
+	  <Control name="tp_axis" text="AXIS"/>
+	  <Control name="tp_gpio" text="I/O"/>
+	  <Control name="tp_sysparm" text="PARM"/>
+	  <Control name="tp_calc" text="CALIBRATE"/>
+	  
+	  <Control name="ctp_ax_udl1" text="UDLOAD1    "/>
+	  <Control name="ctp_ax_udl2" text="UDLOAD2    "/>
+	  <Control name="ctp_ax_lc" text="TRAYBOX    "/>
+	  <Control name="ctp_ax_box_left" text="LEFT_LBOX    "/>  
+	  <Control name="ctp_ax_box_right" text="RIGHT_LBOX    "/>
+	  <Control name="ctp_ax_otp" text="OTP LBOX    "/>
+	  <Control name="ctp_ax_ws" text="WS    "/>
+	  <Control name="ctp_ax_all" text="ALL    "/>
+	  <Control name="label_ax_table" text="Axis Motion"/>
+	  <Control name="label10" text="Axis Parm"/>
+	  
+	  <Control name="tp_out" text="OUT      "/>
+	  <Control name="tp_in" text="IN      "/>
+	  <Control name="tp_cy" text="CYLINDER      "/>
+	  <Control name="btn_update_card" text="Update Card"/>
+	  <Control name="btn_load_axis_cfg" text="Load"/>
+	  <Control name="btn_save_axis_cfg" text="Save"/>
+	  <Control name="btn_stop" text="Stop"/>
+	  <Control name="ctb_SetParm" text="Save"/>
+	  <Control name="btn_ptset_save" text="Save"/>
+	  
+	  <Control name="tb_upcam1_npoint" text="Upcam1 Npoint"/>
+	  <Control name="tb_dwcam1_to_upcam1" text="Dwcam1 To Upcam1"/>
+	  <Control name="tb_dwcam2_to_upcam2" text="Dwcam2 To Upcam2"/>
+	  <Control name="Tb_ComputeCenter" text="Center Of Rotation"/>
+	  <Control name="tb_task_npoint" text="Task Npoint"/>
+	  <Control name="tp_setparm_1" text="Parm1"/>
+	  <Control name="tp_setparm_2" text="Parm2       "/>
+	  
+	  
+	  <Control name="btn_affine_downcam_getpos" text="Study"/>
+	  <Control name="btn_affine_place_getpos" text="Study"/>
+	  <Control name="btn_affine_upcam_getpos" text="Study"/>
+	  <Control name="btn_affine_downcam_movpos" text="Move"/>
+	  <Control name="btn_affine_place_movpos" text="Move"/>
+	  <Control name="btn_affine_upcam_movpos" text="Move"/>
+	  <Control name="Btn_affine_downcam_action" text="1.DwCam"/>
+	  <Control name="btn_affine_place_action" text="2.Place"/>
+	  <Control name="btn_affine_cail_action" text="3.Cali"/>
+	  <Control name="btn_affine_save_action" text="4.Save"/>
+	  <Control name="btn_live1" text="Live1"/>
+	  <Control name="btn_live2" text="Live2"/>
+	  <Control name="btn_cam2" text="Cam2"/>
+	  <Control name="btn_zk_ctrl" text="Vacuum"/>
+	  <Control name="affinecailres" text="Result"/>
+
+	  
+	  <Control name="lbl_unit_place" text="XT1 Place"/>
+	  <Control name="npointlabel56" text="Step(mm)"/>
+	  <Control name="npointmk" text="Upload:"/>
+	  <Control name="npointlabel2" text="Keep the correction plate position unchanged."/>
+	  <Control name="Btn_unit_place_action" text="1.Place"/>
+	  <Control name="btn_unit_cali_action" text="2.Cali"/>
+	  <Control name="btn_save_action" text="3.Save"/>
+	  <Control name="Btn_Live" text="Live"/>
+	  <Control name="btn_cam" text="Cam"/>
+	  <Control name="Btn_unit_place_getpos" text="Study"/>
+	  <Control name="btn_unit_cam_getpos" text="Study"/>
+	  <Control name="Btn_unit_place_movpos" text="Move"/>
+	  <Control name="btn_unit_cam_movpos" text="Move"/>
+	  <Control name="npointres" text="Result"/>
+	  
+	  <Control name="lbl_rot_downcam" text="DwCam:"/>
+	  <Control name="lbl_rot_res" text="Rot Res:"/>
+	  <Control name="lbl_flycam_test" text="FlyCam:"/>
+	  <Control name="lbl_flycam_offset" text="FlyOfs:"/>
+	  <Control name="lbl_xt1_cap" text="xt1ofs"/>
+	  <Control name="lbl_xt2_cap" text="xt2ofs"/>
+	  <Control name="lbl_frontws" text="Near Ws"/>
+	  <Control name="lbl_behindws" text="Far WS"/>
+	  <Control name="btn_rot_downcam_getpos" text="Study"/>
+	  <Control name="btn_rot_downcam_movpos" text="Move"/>
+	  <Control name="btn_rot_action" text="Rot Action"/>
+	  <Control name="lbl_xt" text="XT"/>
+	  <Control name="btn_fly_action" text="Fly Action"/>
+	  <Control name="lbl_mk" text="UpDwLoad"/>
+	  
+	  <Control name="lbl_cam_pos" text="Cam Pos:"/>
+	  <Control name="label56" text="Step(mm):"/>
+	  <Control name="tn_lbl_upcam" text="UpCam:"/>
+	  <Control name="tn_lbl_task" text="Task:"/>
+	  <Control name="btn_task_cam_getpos" text="Study"/>
+	  <Control name="btn_task_cam_movpos" text="Move"/>
+	  <Control name="btn_task_cali_action" text="Cali"/>
+	  
+	  	  <Control name="btn_img" text="Img"/>
+	  <Control name="btn_live" text="Live"/>
+	  <Control name="btn_triger" text="Trigger"/>
+	</Controls>
+	
+	<DataGridViewCells>
+
+
+	</DataGridViewCells>
+  </Form>
+  
+    <Form> 
+      <!--系统设置界面-->
+	<Name>FrProduct</Name>
+	<Controls>
+	  <Control name="label27" text="Product List:"/>
+	  <Control name="label11" text="Cur Product"/>
+	  <Control name="label12" text="New Product"/>
+	  <Control name="btn_new" text="Add"/>
+	  <Control name="btn_rename" text="Rename"/>
+	  <Control name="btn_del" text="Delete"/>
+	  <Control name="btn_change" text="Switch"/>
+	  <Control name="tp_file" text="Product"/>
+	  <Control name="tp_light_box" text="LightBox"/>
+	  <Control name="tp_vision" text="Vision"/>
+	  <Control name="tp_tray" text="Tray"/>
+	  <Control name="tp_ws" text="WS"/>
+	  <Control name="tp_Adj" text="Adj"/>
+	  <Control name="tp_lightbox_left" text="  Left LBox  "/>
+	  <Control name="tp_lightbox_right" text="  Right LBox  "/>
+	  <Control name="tp_lightbox_otp" text="  OTP LBox  "/>
+	  <Control name="light_btn_del" text="Delete"/>
+	  <Control name="light_btn_add" text="Add"/>
+	  <Control name="light_btn_load" text="load"/>
+	  <Control name="light_btn_save" text="Save"/>
+	  <Control name="light_btn_stop" text="Stop"/>
+	  
+	  <Control name="Tb_ComputeCenter" text="Pick And Place"/>
+	  <Control name="Tb_CameraCheckboard" text="Check Board"/>
+	  <Control name="Tb_CameraNpiont" text="WS Pos"/>
+	  <Control name="Tb_DDCali" text="Barcode"/>
+	  <Control name="tabPage1" text="Tray"/>
+	  
+	  <Control name="btn_pick" text="Pick"/>
+	  <Control name="btn_dwcam" text="DwCam"/>
+	  <Control name="btn_upcam" text="UpCam"/>
+	  <Control name="btn_shp" text="Shape"/>
+	  <Control name="btn_calc_ofs" text="Calc_Ofs"/>
+	  <Control name="btn_place" text="Place"/>
+	  <Control name="rbtn_xt1" text="XT1"/>
+	  <Control name="rbtn_xt2" text="XT2"/>  
+	  <Control name="rbtn_xt3" text="XT3"/>
+	  <Control name="rbtn_xt4" text="XT4"/>
+	  <Control name="rbtn_palce" text="Place"/>
+	  <Control name="rbtn_pick" text="Pick"/>
+	  <Control name="btn_center" text="Tray"/>
+	  <Control name="btn_cam" text="Move"/>
+	  <Control name="btn_get_upcam_pos" text="Study"/>
+	  <Control name="label7" text="WS Num"/>
+	  <Control name="btn_wsgoto" text="Move"/>
+	  <Control name="btn_goto" text="Move"/>
+	  <Control name="btn_PickWl" text="Pick"/>
+	  <Control name="btn_zk" text="Vacuum"/>
+	  <Control name="lbl_zhigh" text="Z:"/>  
+	  <Control name="btn_save_ofs" text="Save"/>
+	  <Control name="label_Offset" text="Offset"/>
+	  
+	  <Control name="ctp_tray_fd" text="Feed Tray  "/>
+	  <Control name="ctp_tray_ok" text="OK Tray  "/>
+	  <Control name="ctp_tray_ng" text="NG Tray  "/>  
+	  <Control name="tabPage2" text="  UpDwLoad1  "/>
+	  <Control name="tabPage3" text="  UpDwLoad2  "/>
+
+	  <Control name="label23" text="Vision Pos"/>
+	  <Control name="btn_tray_vspos_get" text="Study"/>
+	  <Control name="btn_tray_vspos_goto" text="Move"/>
+	  <Control name="btn_tray_vspos_gocenter" text="Center"/>
+	  <Control name="btn_tray_get" text="Study"/>
+	  <Control name="btn_tray_goto" text="Move"/>
+	  <Control name="btn_dwup" text="Down"/>
+	  <Control name="btn_Vsgopos" text="VMove"/>
+	  <Control name="btn_VsCalc" text="VCalc"/>
+	  <Control name="btn_tray_make_array" text="Array"/>
+	  <Control name="btn_tray_copy" text="Copy"/>  
+	  <Control name="btn_tray_save" text="Save"/>
+	  <Control name="groupBox1" text="TrayBox Para"/>
+  	  <Control name="tabPage4" text="Para1"/>
+	  <Control name="tabPage5" text="Para2"/>
+	  <Control name="groupBox6" text="TrayBarcode Para"/>   
+	  <Control name="lb_x" text="#1 Z:"/>
+	  <Control name="label1" text="Layer Height:"/>
+	  <Control name="label2" text="Detachment height:"/>
+	  <Control name="label3" text="Tray end Xpos:"/>
+	  <Control name="label13" text="Cy Off Xpos:"/>
+	  <Control name="label4" text="Safe Xpos:"/>
+	  <Control name="label19" text="Check Height:"/>
+	  <Control name="label5" text="Layer number:"/>
+	  <Control name="btn_traybox_save" text="Save"/>
+	  <Control name="label29" text="UpDwLoad1 trayX:"/>
+	  <Control name="label33" text="UpDwLoad2 trayX:"/>
+	  <Control name="label28" text="X1:"/>
+	  <Control name="label30" text="Y1:"/>  
+	  <Control name="label31" text="X2:"/>
+	  <Control name="label32" text="Y2:"/>
+  	  <Control name="btn_traybox_save2" text="Save"/>
+	  <Control name="tp_gz1" text="↓WS[1]  :"/>
+	  <Control name="tp_gz2" text="  ←WS[2]  :"/>  
+	  <Control name="tp_gz3" text="  ↑WS[3]  :"/>
+	  <Control name="tp_gz4" text="  →WS[4]  :"/>
+	  <Control name="btn_test_pos" text="Test Pos"/>
+	  <Control name="btn_feed_pos" text="Feed Pos"/>
+	  
+	  <Control name="groupBox2" text="Para"/>
+	  <Control name="label17" text="1.Column photo position1:"/>
+  	  <Control name="btn_Pos_LiZhu_goto" text="Module move"/>
+	  <Control name="btn_Pos_LiZhu_get" text="Study"/>
+	  <Control name="label10" text="2.Column offset:"/>  
+	  <Control name="label14" text="3.Calc pickws pos:"/>
+	  <Control name="btn_vs_calpos" text="Vis Cala->"/>
+	  <Control name="label26" text="4.Height:"/>
+	  <Control name="btn_ud1_hightest" text="Height1"/>
+	  <Control name="btn_ud2_hightest" text="Height2"/>
+	  <Control name="btn_ud_hightest" text="Height together"/>
+	  
+	  <Control name="rbtn_campos" text="Cam"/>
+	  <Control name="rbtn_pickpos" text="Pick"/>  
+	  <Control name="btn_cali" text="Cali"/>
+	  <Control name="btn_array" text="Array"/>
+	  <Control name="btn_PosCopy" text="Copy"/>
+	  <Control name="btn_start_test_flow" text="Test"/>
+	  <Control name="btn_next_flow" text="Next"/>
+	  <Control name="btn_save" text="Save"/>
+	  
+	  
+	  <Control name="light_btn_del" text="Delete"/>
+	  <Control name="light_btn_add" text="Add"/>  
+	  <Control name="light_btn_load" text="Load"/>
+	  <Control name="light_btn_save" text="Save"/>
+	  <Control name="light_btn_stop" text="Stop"/>
+	  <Control name="btn_img" text="Img"/>
+	  <Control name="btn_live" text="Live"/>
+	  <Control name="btn_triger" text="Trigger"/>
+	  
+
+	  <Control name="btn_lightgetpos" text="Study"/>
+	  <Control name="btn_lightgotopos" text="Move"/>  
+	  <Control name="btn_lightmeasure" text="Measure"/>
+	  <Control name="lbl_lightres" text="  Res:"/>
+	  <Control name="lbl_lighth" text="   H1:"/>
+	  <Control name="lbl_lighthh" text="            H2:"/>
+	  <Control name="lbl_lighttip1" text="Pos:X1:240 Y1:43 Z2:-200"/>
+	  <Control name="lbl_lighttip2" text="Note: Make sure the laser is in the correct position!"/>	  
+	  <Control name="lbl_lighttip3" text="Steps:                                              1.Go to default position                                2.The result of the measurement should be much greater than 6, and then slowly position to match the measurement result."/>
+	  
+	</Controls>
+	<DataGridViewCells>
+      <DataGridViewCell name="Num" HeaderText="Num"/>
+      <DataGridViewCell name="Disc" HeaderText="Disc"/>
+      <DataGridViewCell name="Channel" HeaderText="Channel"/>
+      <DataGridViewCell name="delay" HeaderText="Delay"/>
+	  <DataGridViewCell name="编号" HeaderText="Num"/>
+      <DataGridViewCell name="chk_use" HeaderText="Use"/>
+	  
+	  <DataGridViewCell name="pc" HeaderText="Pc"/>
+      <DataGridViewCell name="textbox" HeaderText="Fixture"/>
+      <DataGridViewCell name="SN" HeaderText="SN"/>
+      <DataGridViewCell name="enable" HeaderText="Enable"/>
+	</DataGridViewCells>
+  </Form>  
+  
+  
+  
+  <Form> 
+    <!--统计界面-->
+	<Name>FrCount</Name>
+    <Controls>
+	  <Control name="tp_product_count" text="Output"></Control>
+	  <Control name="tp_soket_count" text="WS CNT"></Control>  
+	  <Control name="tp_sql_data" text="Data"></Control>
+	  <Control name="tp_ng_count" text="NG CNT"></Control>  
+	  <Control name="tp_ng" text="NG Code"></Control>
+	  <Control name="tp_test_pc" text="PC"></Control>  
+	  <Control name="label9" text="Barcode"></Control>
+	  <Control name="label16" text="NG"></Control>  
+	  <Control name="label13" text="WS"></Control>
+	  <Control name="label15" text="PC"></Control>  
+	  <Control name="label10" text="Num"></Control>
+	  <Control name="label14" text="Fixture"></Control>  
+	  <Control name="rbtn_AllProduct" text="ALL"></Control>  
+	  <Control name="rbtn_NorProduct" text="Nor"></Control>
+	  <Control name="rbtn_RetProduct" text="Ret"></Control> 
+	  <Control name="btn_select" text="Select"></Control>
+	  <Control name="btn_clear" text="Clear"></Control> 
+	  
+	  <Control name="btn_SaveCsv" text="Generate reports"></Control>
+	  <Control name="rbtn_normal" text="-Nor-"></Control>  
+	  <Control name="rbtn_retest" text="-Ret-"></Control>
+	  <Control name="btn_ngcode_import" text="Import"></Control> 
+	  <Control name="btn_ngcode_load" text="Load"></Control>
+	  <Control name="btn_ngcode_save" text="Save"></Control> 
+	  <Control name="btn_vnc_captrue" text="Screenshot"></Control>
+	  <Control name="ckb_rb_ctrl" text="Contorl"></Control> 
+	 </Controls> 
+  </Form> 
+
+
+  <Form> 
+    <!--统计界面-->
+	<Name>warning</Name>
+    <Controls>
+	  <Control name="label8" text="Normal"></Control>
+	  <Control name="label5" text="Abnormal"></Control>  
+	  <Control name="label1" text="Empty"></Control>
+	  <Control name="label2" text="Untest"></Control>  
+	  <Control name="label3" text="OK"></Control>
+	  <Control name="label4" text="NG"></Control>  	  
+	  <Control name="btn_currun" text="Update"></Control>
+	  <Control name="btn_Allun" text="Free"></Control>  
+	  <Control name="btn_recovery" text="restore"></Control>
+	 </Controls> 
+  </Form>     
+</Softimite>
